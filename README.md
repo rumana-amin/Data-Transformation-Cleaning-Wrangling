@@ -11,3 +11,5 @@ Data transformation is the process of converting, cleansing, and structuring dat
 ### [Survey Monkey Data Transformation](https://github.com/rumana-amin/Data-Transformation-Cleaning-Wrangling/tree/main/SurveyMonkey%20Data%20Transformation)
 
 ### [03-12 Data Transforming-Pivoting](https://github.com/rumana-amin/Data-Transformation-Cleaning-Wrangling/tree/main/03-12)
+
+### [Excel Text to Column without Delimiter](https://github.com/rumana-amin/Data-Transformation-Cleaning-Wrangling/tree/main/Excel%20Text%20to%20Columns%20without%20Delimiter)
