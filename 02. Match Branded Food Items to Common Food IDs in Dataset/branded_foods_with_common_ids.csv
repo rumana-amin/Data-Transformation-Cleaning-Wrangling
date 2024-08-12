@@ -1,0 +1,51 @@
+id,brand_owner,brand_name,UPC,branded_category,branded_name,nutrition,serving_size,branded_name_cleaned,common_id
+1,Sun-Maid Growers,,123456789012,Fruit / Processed,Sun-Maid California Pitted Prunes 16 oz Canister,,16 oz,sunmaid california pitted prunes 16 oz canister,1.0
+2,Kellogg's Frosted Flakes,,123456789013,Cereal,Kellogg's Frosted Flakes 18 oz,,18 oz,kelloggs frosted flakes 18 oz,6.0
+3,Lay's,,123456789014,Snacks / Chips,Lay's Classic Potato Chips 8 oz,,8 oz,lays classic potato chips 8 oz,3.0
+4,Hershey's,,123456789015,Candy,Hershey's Milk Chocolate Bar 1.55 oz,,1.55 oz,hersheys milk chocolate bar 155 oz,4.0
+5,Del Monte,,123456789016,Vegetables / Canned,Del Monte Sliced Carrots 14.5 oz Can,,14.5 oz,del monte sliced carrots 145 oz can,2.0
+6,Quaker Oats,,123456789017,Cereal,Quaker Oats Old Fashioned 42 oz,,42 oz,quaker oats old fashioned 42 oz,6.0
+7,Blue Diamond Almonds,,123456789018,Nuts / Seeds,Blue Diamond Whole Natural Almonds 16 oz,,16 oz,blue diamond whole natural almonds 16 oz,7.0
+8,Coca-Cola,,123456789019,Beverages / Soft Drinks,Coca-Cola Classic 12 fl oz,,12 fl oz,cocacola classic 12 fl oz,8.0
+9,Campbell's,,123456789020,Soups / Canned,Campbell's Tomato Soup 10.75 oz Can,,10.75 oz,campbells tomato soup 1075 oz can,5.0
+10,Nabisco Oreo,,123456789021,Snacks / Cookies,Oreo Chocolate Sandwich Cookies 14.3 oz,,14.3 oz,oreo chocolate sandwich cookies 143 oz,3.0
+11,General Mills Cheerios,,123456789022,Cereal,Cheerios 12 oz,,12 oz,cheerios 12 oz,6.0
+12,Bumble Bee,,123456789023,Seafood / Canned,Bumble Bee Chunk Light Tuna in Water 5 oz,,5 oz,bumble bee chunk light tuna in water 5 oz,9.0
+13,Progresso,,123456789024,Soups / Canned,Progresso Chicken Noodle Soup 19 oz,,19 oz,progresso chicken noodle soup 19 oz,5.0
+14,Lipton,,123456789025,Beverages / Tea,Lipton Black Tea Bags 100 ct,,100 ct,lipton black tea bags 100 ct,8.0
+15,Welch's,,123456789026,Juice,Welch's Grape Juice 64 fl oz,,64 fl oz,welchs grape juice 64 fl oz,11.0
+16,Hormel,,123456789027,Meat / Canned,Hormel Spam Classic 12 oz,,12 oz,hormel spam classic 12 oz,12.0
+17,Pringles,,123456789028,Snacks / Chips,Pringles Original Potato Crisps 5.2 oz,,5.2 oz,pringles original potato crisps 52 oz,3.0
+18,Starkist,,123456789029,Seafood / Canned,Starkist Chunk Light Tuna in Water 5 oz,,5 oz,starkist chunk light tuna in water 5 oz,9.0
+19,Tropicana,,123456789030,Juice,Tropicana Pure Premium Orange Juice 59 fl oz,,59 fl oz,tropicana pure premium orange juice 59 fl oz,11.0
+20,Heinz,,123456789031,Condiments,Heinz Tomato Ketchup 20 oz,,20 oz,heinz tomato ketchup 20 oz,15.0
+21,Planters Peanuts,,123456789032,Nuts / Seeds,Planters Salted Peanuts 16 oz,,16 oz,planters salted peanuts 16 oz,7.0
+22,Ocean Spray,,123456789033,Juice,Ocean Spray Cranberry Juice 64 fl oz,,64 fl oz,ocean spray cranberry juice 64 fl oz,11.0
+23,Skippy,,123456789034,Spreads / Peanut Butter,Skippy Creamy Peanut Butter 16.3 oz,,16.3 oz,skippy creamy peanut butter 163 oz,13.0
+24,Breyers,,123456789035,Ice Cream,Breyers Natural Vanilla Ice Cream 48 oz,,48 oz,breyers natural vanilla ice cream 48 oz,19.0
+25,Smucker's,,123456789036,Spreads / Jelly,Smucker's Strawberry Preserves 18 oz,,18 oz,smuckers strawberry preserves 18 oz,13.0
+26,Barilla,,123456789037,Pasta,Barilla Spaghetti Pasta 16 oz,,16 oz,barilla spaghetti pasta 16 oz,17.0
+27,Hunt's,,123456789038,Tomato Products,Hunt's Diced Tomatoes 14.5 oz Can,,14.5 oz,hunts diced tomatoes 145 oz can,
+28,Frito-Lay,,123456789039,Snacks / Chips,Frito-Lay Classic Mix 18 Count,,18 Count,fritolay classic mix 18 count,3.0
+29,Dole,,123456789040,Fruit / Canned,Dole Pineapple Chunks 20 oz Can,,20 oz,dole pineapple chunks 20 oz can,14.0
+30,Pepsi,,123456789041,Beverages / Soft Drinks,Pepsi Cola 12 fl oz,,12 fl oz,pepsi cola 12 fl oz,8.0
+31,Green Giant,,123456789042,Vegetables / Frozen,Green Giant Broccoli Florets 12 oz,,12 oz,green giant broccoli florets 12 oz,2.0
+32,Knorr,,123456789043,Pasta / Sides,Knorr Pasta Sides Alfredo 4.3 oz,,4.3 oz,knorr pasta sides alfredo 43 oz,17.0
+33,Eggo,,123456789044,Breakfast / Frozen,Eggo Homestyle Waffles 10 Count,,10 Count,eggo homestyle waffles 10 count,18.0
+34,Tyson,,123456789045,Meat / Frozen,Tyson Chicken Nuggets 32 oz,,32 oz,tyson chicken nuggets 32 oz,12.0
+35,Johnsonville,,123456789046,Meat / Sausage,Johnsonville Bratwurst 19 oz,,19 oz,johnsonville bratwurst 19 oz,12.0
+36,Sargento,,123456789047,Dairy / Cheese,Sargento Shredded Cheddar Cheese 8 oz,,8 oz,sargento shredded cheddar cheese 8 oz,16.0
+37,Kraft,,123456789048,Dairy / Cheese,Kraft Singles American Cheese Slices 16 oz,,16 oz,kraft singles american cheese slices 16 oz,16.0
+38,Nature Valley,,123456789049,Snacks / Bars,Nature Valley Crunchy Granola Bars 12 Count,,12 Count,nature valley crunchy granola bars 12 count,3.0
+39,Pillsbury,,123456789050,Baked Goods / Dough,Pillsbury Crescent Rolls 8 oz,,8 oz,pillsbury crescent rolls 8 oz,
+40,Dannon,,123456789051,Dairy / Yogurt,Dannon Strawberry Yogurt 6 oz,,6 oz,dannon strawberry yogurt 6 oz,16.0
+41,Lactaid,,123456789052,Dairy / Milk,Lactaid Whole Milk 64 fl oz,,64 fl oz,lactaid whole milk 64 fl oz,16.0
+42,Activia,,123456789053,Dairy / Yogurt,Activia Vanilla Yogurt 4 oz,,4 oz,activia vanilla yogurt 4 oz,16.0
+43,Philadelphia,,123456789054,Dairy / Cream Cheese,Philadelphia Original Cream Cheese 8 oz,,8 oz,philadelphia original cream cheese 8 oz,16.0
+44,Gatorade,,123456789055,Beverages / Sports Drink,Gatorade Thirst Quencher Lemon Lime 32 fl oz,,32 fl oz,gatorade thirst quencher lemon lime 32 fl oz,8.0
+45,Stonyfield,,123456789056,Dairy / Yogurt,Stonyfield Organic Greek Yogurt 5.3 oz,,5.3 oz,stonyfield organic greek yogurt 53 oz,16.0
+46,Yoplait,,123456789057,Dairy / Yogurt,Yoplait Original Strawberry Yogurt 6 oz,,6 oz,yoplait original strawberry yogurt 6 oz,16.0
+47,Haagen-Dazs,,123456789058,Ice Cream,Haagen-Dazs Vanilla Ice Cream 14 oz,,14 oz,haagendazs vanilla ice cream 14 oz,19.0
+48,Ben & Jerry's,,123456789059,Ice Cream,Ben & Jerry's Chocolate Fudge Brownie Ice Cream 16 oz,,16 oz,ben  jerrys chocolate fudge brownie ice cream 16 oz,4.0
+49,Breyers,,123456789060,Ice Cream,Breyers Cookies & Cream Ice Cream 48 oz,,48 oz,breyers cookies  cream ice cream 48 oz,19.0
+50,Ben & Jerry's,,123456789061,Ice Cream,Ben & Jerry's Half Baked Ice Cream 16 oz,,16 oz,ben  jerrys half baked ice cream 16 oz,19.0
