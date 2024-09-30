@@ -1,0 +1,1038 @@
+NAICS Sector Code,NAICS Codes,Sector,Subsector,NAICS Industry Description,Size Standards (millions of dollars),Size standards (number of employees)
+11.0,111110,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 111 – Crop Production,Soybean Farming,1,
+11.0,111120,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 111 – Crop Production,Oilseed (except Soybean) Farming,1,
+11.0,111130,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 111 – Crop Production,Dry Pea and Bean Farming,1,
+11.0,111140,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 111 – Crop Production,Wheat Farming,1,
+11.0,111150,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 111 – Crop Production,Corn Farming,1,
+11.0,111160,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 111 – Crop Production,Rice Farming,1,
+11.0,111191,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 111 – Crop Production,Oilseed and Grain Combination Farming,1,
+11.0,111199,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 111 – Crop Production,All Other Grain Farming,1,
+11.0,111211,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 111 – Crop Production,Potato Farming,1,
+11.0,111219,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 111 – Crop Production,Other Vegetable (except Potato) and Melon Farming  ,1,
+11.0,111310,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 111 – Crop Production,Orange Groves,1,
+11.0,111320,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 111 – Crop Production,Citrus (except Orange) Groves,1,
+11.0,111331,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 111 – Crop Production,Apple Orchards,1,
+11.0,111332,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 111 – Crop Production,Grape Vineyards,1,
+11.0,111333,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 111 – Crop Production,Strawberry Farming,1,
+11.0,111334,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 111 – Crop Production,Berry (except Strawberry) Farming,1,
+11.0,111335,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 111 – Crop Production,Tree Nut Farming,1,
+11.0,111336,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 111 – Crop Production,Fruit and Tree Nut Combination Farming,1,
+11.0,111339,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 111 – Crop Production,Other Noncitrus Fruit Farming,1,
+11.0,111411,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 111 – Crop Production,Mushroom Production,1,
+11.0,111419,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 111 – Crop Production,Other Food Crops Grown Under Cover,1,
+11.0,111421,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 111 – Crop Production,Nursery and Tree Production,1,
+11.0,111422,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 111 – Crop Production,Floriculture Production,1,
+11.0,111910,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 111 – Crop Production,Tobacco Farming,1,
+11.0,111920,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 111 – Crop Production,Cotton Farming,1,
+11.0,111930,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 111 – Crop Production,Sugarcane Farming,1,
+11.0,111940,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 111 – Crop Production,Hay Farming,1,
+11.0,111991,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 111 – Crop Production,Sugar Beet Farming  ,1,
+11.0,111992,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 111 – Crop Production,Peanut Farming  ,1,
+11.0,111998,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 111 – Crop Production,All Other Miscellaneous Crop Farming,1,
+11.0,112111,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 112 – Animal Production and Aquaculture,Beef Cattle Ranching and Farming,1,
+11.0,112112,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 112 – Animal Production and Aquaculture,Cattle Feedlots,8,
+11.0,112120,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 112 – Animal Production and Aquaculture,Dairy Cattle and Milk Production,1,
+11.0,112210,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 112 – Animal Production and Aquaculture,Hog and Pig Farming,1,
+11.0,112310,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 112 – Animal Production and Aquaculture,Chicken Egg Production,16.5,
+11.0,112320,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 112 – Animal Production and Aquaculture,Broilers and Other Meat Type Chicken Production  ,1,
+11.0,112330,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 112 – Animal Production and Aquaculture,Turkey Production,1,
+11.0,112340,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 112 – Animal Production and Aquaculture,Poultry Hatcheries,1,
+11.0,112390,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 112 – Animal Production and Aquaculture,Other Poultry Production,1,
+11.0,112410,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 112 – Animal Production and Aquaculture,Sheep Farming,1,
+11.0,112420,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 112 – Animal Production and Aquaculture,Goat Farming,1,
+11.0,112511,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 112 – Animal Production and Aquaculture,Finfish Farming and Fish Hatcheries,1,
+11.0,112512,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 112 – Animal Production and Aquaculture,Shellfish Farming,1,
+11.0,112519,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 112 – Animal Production and Aquaculture,Other  Aquaculture,1,
+11.0,112910,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 112 – Animal Production and Aquaculture,Apiculture,1,
+11.0,112920,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 112 – Animal Production and Aquaculture,Horses and Other Equine Production,1,
+11.0,112930,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 112 – Animal Production and Aquaculture,Fur‑Bearing Animal and Rabbit Production,1,
+11.0,112990,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 112 – Animal Production and Aquaculture,All Other Animal Production,1,
+11.0,113110,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 113 – Forestry and Logging,Timber Tract Operations,12,
+11.0,113210,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 113 – Forestry and Logging,Forest Nurseries and Gathering of Forest Products,12,
+11.0,113310,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 113 – Forestry and Logging,Logging,,500.0
+11.0,114111,"Sector 11 – Agriculture, Forestry, Fishing and Hunting","Subsector 114 – Fishing, Hunting and Trapping",Finfish Fishing,22,
+11.0,114112,"Sector 11 – Agriculture, Forestry, Fishing and Hunting","Subsector 114 – Fishing, Hunting and Trapping",Shellfish Fishing,6,
+11.0,114119,"Sector 11 – Agriculture, Forestry, Fishing and Hunting","Subsector 114 – Fishing, Hunting and Trapping",Other Marine Fishing,8,
+11.0,114210,"Sector 11 – Agriculture, Forestry, Fishing and Hunting","Subsector 114 – Fishing, Hunting and Trapping",Hunting and Trapping,6,
+11.0,115111,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 115 – Support Activities for Agriculture and Forestry,Cotton Ginning,12,
+11.0,115112,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 115 – Support Activities for Agriculture and Forestry,"Soil Preparation, Planting, and Cultivating",8,
+11.0,115113,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 115 – Support Activities for Agriculture and Forestry,"Crop Harvesting, Primarily by Machine",8,
+11.0,115114,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 115 – Support Activities for Agriculture and Forestry,Postharvest Crop Activities (except Cotton Ginning),30,
+11.0,115115,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 115 – Support Activities for Agriculture and Forestry,Farm Labor Contractors and Crew Leaders,16.5,
+11.0,115116,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 115 – Support Activities for Agriculture and Forestry,Farm Management Services,8,
+11.0,115210,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 115 – Support Activities for Agriculture and Forestry,Support Activities for Animal Production,8,
+11.0,115310,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 115 – Support Activities for Agriculture and Forestry,Support Activities for Forestry  ,8,
+11.0,115310_a_Except   ,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 115 – Support Activities for Agriculture and Forestry,Forest Fire Suppression17,20.5,
+11.0,115310_b_Except   ,"Sector 11 – Agriculture, Forestry, Fishing and Hunting",Subsector 115 – Support Activities for Agriculture and Forestry,Fuels Management Services17,20.5,
+21.0,211120,"Sector 21 – Mining, Quarrying, and Oil and Gas Extraction",Subsector 211 – Oil and Gas Extraction,Crude Petroleum Extraction,,1250.0
+21.0,211130,"Sector 21 – Mining, Quarrying, and Oil and Gas Extraction",Subsector 211 – Oil and Gas Extraction,Natural Gas Extraction,,1250.0
+21.0,212111,"Sector 21 – Mining, Quarrying, and Oil and Gas Extraction",Subsector 212 – Mining (except Oil and Gas),Bituminous Coal and Lignite Surface Mining,,1250.0
+21.0,212112,"Sector 21 – Mining, Quarrying, and Oil and Gas Extraction",Subsector 212 – Mining (except Oil and Gas),Bituminous Coal Underground Mining,,1500.0
+21.0,212113,"Sector 21 – Mining, Quarrying, and Oil and Gas Extraction",Subsector 212 – Mining (except Oil and Gas),Anthracite Mining,,250.0
+21.0,212210,"Sector 21 – Mining, Quarrying, and Oil and Gas Extraction",Subsector 212 – Mining (except Oil and Gas),Iron Ore Mining,,750.0
+21.0,212221,"Sector 21 – Mining, Quarrying, and Oil and Gas Extraction",Subsector 212 – Mining (except Oil and Gas),Gold Ore Mining,,1500.0
+21.0,212222,"Sector 21 – Mining, Quarrying, and Oil and Gas Extraction",Subsector 212 – Mining (except Oil and Gas),Silver Ore Mining,,250.0
+21.0,212230,"Sector 21 – Mining, Quarrying, and Oil and Gas Extraction",Subsector 212 – Mining (except Oil and Gas),"Copper, Nickel, Lead, and Zinc Mining",,750.0
+21.0,212291,"Sector 21 – Mining, Quarrying, and Oil and Gas Extraction",Subsector 212 – Mining (except Oil and Gas),Uranium‑Radium‑Vanadium Ore Mining,,250.0
+21.0,212299,"Sector 21 – Mining, Quarrying, and Oil and Gas Extraction",Subsector 212 – Mining (except Oil and Gas),All Other Metal Ore Mining,,750.0
+21.0,212311,"Sector 21 – Mining, Quarrying, and Oil and Gas Extraction",Subsector 212 – Mining (except Oil and Gas),Dimension Stone Mining and Quarrying,,500.0
+21.0,212312,"Sector 21 – Mining, Quarrying, and Oil and Gas Extraction",Subsector 212 – Mining (except Oil and Gas),Crushed and Broken Limestone Mining and Quarrying,,750.0
+21.0,212313,"Sector 21 – Mining, Quarrying, and Oil and Gas Extraction",Subsector 212 – Mining (except Oil and Gas),Crushed and Broken Granite Mining and Quarrying,,750.0
+21.0,212319,"Sector 21 – Mining, Quarrying, and Oil and Gas Extraction",Subsector 212 – Mining (except Oil and Gas),Other Crushed and Broken Stone Mining and Quarrying,,500.0
+21.0,212321,"Sector 21 – Mining, Quarrying, and Oil and Gas Extraction",Subsector 212 – Mining (except Oil and Gas),Construction Sand and Gravel Mining,,500.0
+21.0,212322,"Sector 21 – Mining, Quarrying, and Oil and Gas Extraction",Subsector 212 – Mining (except Oil and Gas),Industrial Sand Mining,,500.0
+21.0,212324,"Sector 21 – Mining, Quarrying, and Oil and Gas Extraction",Subsector 212 – Mining (except Oil and Gas),Kaolin and Ball Clay Mining,,750.0
+21.0,212325,"Sector 21 – Mining, Quarrying, and Oil and Gas Extraction",Subsector 212 – Mining (except Oil and Gas),Clay and Ceramic and Refractory Minerals Mining  ,,500.0
+21.0,212391,"Sector 21 – Mining, Quarrying, and Oil and Gas Extraction",Subsector 212 – Mining (except Oil and Gas),"Potash, Soda, and Borate Mineral Mining",,750.0
+21.0,212392,"Sector 21 – Mining, Quarrying, and Oil and Gas Extraction",Subsector 212 – Mining (except Oil and Gas),Phosphate Rock Mining,,1000.0
+21.0,212393,"Sector 21 – Mining, Quarrying, and Oil and Gas Extraction",Subsector 212 – Mining (except Oil and Gas),Other Chemical and Fertilizer Mineral Mining,,500.0
+21.0,212399,"Sector 21 – Mining, Quarrying, and Oil and Gas Extraction",Subsector 212 – Mining (except Oil and Gas),All Other Nonmetallic Mineral Mining,,500.0
+21.0,213111,"Sector 21 – Mining, Quarrying, and Oil and Gas Extraction",Subsector 213 – Support Activities for Mining,Drilling Oil and Gas Wells,,1000.0
+21.0,213112,"Sector 21 – Mining, Quarrying, and Oil and Gas Extraction",Subsector 213 – Support Activities for Mining,Support Activities for Oil and Gas Operations,41.5,
+21.0,213113,"Sector 21 – Mining, Quarrying, and Oil and Gas Extraction",Subsector 213 – Support Activities for Mining,Support Activities for Coal Mining,22,
+21.0,213114,"Sector 21 – Mining, Quarrying, and Oil and Gas Extraction",Subsector 213 – Support Activities for Mining,Support Activities for Metal Mining,22,
+21.0,213115,"Sector 21 – Mining, Quarrying, and Oil and Gas Extraction",Subsector 213 – Support Activities for Mining,Support Activities for Nonmetallic Minerals (except Fuels),8,
+22.0,221111,Sector 22 – Utilities,Subsector 221 – Utilities,Hydroelectric Power Generation,,500.0
+22.0,221112,Sector 22 – Utilities,Subsector 221 – Utilities,Fossil Fuel Electric Power Generation,,750.0
+22.0,221113,Sector 22 – Utilities,Subsector 221 – Utilities,Nuclear Electric Power Generation,,750.0
+22.0,221114,Sector 22 – Utilities,Subsector 221 – Utilities,Solar Electric Power Generation,,250.0
+22.0,221115,Sector 22 – Utilities,Subsector 221 – Utilities,Wind Electric Power Generation,,250.0
+22.0,221116,Sector 22 – Utilities,Subsector 221 – Utilities,Geothermal Electric Power Generation,,250.0
+22.0,221117,Sector 22 – Utilities,Subsector 221 – Utilities,Biomass Electric Power Generation,,250.0
+22.0,221118,Sector 22 – Utilities,Subsector 221 – Utilities,Other Electric Power Generation,,250.0
+22.0,221121,Sector 22 – Utilities,Subsector 221 – Utilities,Electric Bulk Power Transmission and Control,,500.0
+22.0,221122,Sector 22 – Utilities,Subsector 221 – Utilities,Electric Power Distribution,,1000.0
+22.0,221210,Sector 22 – Utilities,Subsector 221 – Utilities,Natural Gas Distribution,,1000.0
+22.0,221310,Sector 22 – Utilities,Subsector 221 – Utilities,Water Supply and Irrigation Systems,30,
+22.0,221320,Sector 22 – Utilities,Subsector 221 – Utilities,Sewage Treatment Facilities,22,
+22.0,221330,Sector 22 – Utilities,Subsector 221 – Utilities,Steam and Air‑Conditioning Supply,16.5,
+23.0,236115,Sector 23 – Construction,Subsector  236 – Construction of Buildings,New Single-family Housing Construction (Except For-Sale Builders),39.5,
+23.0,236116,Sector 23 – Construction,Subsector  236 – Construction of Buildings,New Multifamily Housing Construction (except For-Sale Builders),39.5,
+23.0,236117,Sector 23 – Construction,Subsector  236 – Construction of Buildings,New Housing For-Sale Builders,39.5,
+23.0,236118,Sector 23 – Construction,Subsector  236 – Construction of Buildings,Residential Remodelers,39.5,
+23.0,236210,Sector 23 – Construction,Subsector  236 – Construction of Buildings,Industrial Building Construction,39.5,
+23.0,236220,Sector 23 – Construction,Subsector  236 – Construction of Buildings,Commercial and Institutional Building Construction,39.5,
+23.0,237110,Sector 23 – Construction,Subsector 237 – Heavy and Civil Engineering Construction,Water and Sewer Line and Related Structures Construction,39.5,
+23.0,237120,Sector 23 – Construction,Subsector 237 – Heavy and Civil Engineering Construction,Oil and Gas Pipeline and Related Structures Construction,39.5,
+23.0,237130,Sector 23 – Construction,Subsector 237 – Heavy and Civil Engineering Construction,Power and Communication Line and Related Structures Construction,39.5,
+23.0,237210,Sector 23 – Construction,Subsector 237 – Heavy and Civil Engineering Construction,Land Subdivision,30,
+23.0,237310,Sector 23 – Construction,Subsector 237 – Heavy and Civil Engineering Construction,"Highway, Street, and Bridge Construction",39.5,
+23.0,237990,Sector 23 – Construction,Subsector 237 – Heavy and Civil Engineering Construction,Other Heavy and Civil Engineering Construction,39.5,
+23.0,237990_Except   ,Sector 23 – Construction,Subsector 237 – Heavy and Civil Engineering Construction,Dredging and Surface Cleanup Activities2,30,
+23.0,238110,Sector 23 – Construction,Subsector 238 – Specialty Trade Contractors,Poured Concrete Foundation and Structure Contractors,16.5,
+23.0,238120,Sector 23 – Construction,Subsector 238 – Specialty Trade Contractors,Structural Steel and Precast Concrete Contractors,16.5,
+23.0,238130,Sector 23 – Construction,Subsector 238 – Specialty Trade Contractors,Framing Contractors,16.5,
+23.0,238140,Sector 23 – Construction,Subsector 238 – Specialty Trade Contractors,Masonry Contractors,16.5,
+23.0,238150,Sector 23 – Construction,Subsector 238 – Specialty Trade Contractors,Glass and Glazing Contractors,16.5,
+23.0,238160,Sector 23 – Construction,Subsector 238 – Specialty Trade Contractors,Roofing Contractors,16.5,
+23.0,238170,Sector 23 – Construction,Subsector 238 – Specialty Trade Contractors,Siding Contractors,16.5,
+23.0,238190,Sector 23 – Construction,Subsector 238 – Specialty Trade Contractors,"Other Foundation, Structure, and Building Exterior Contractors",16.5,
+23.0,238210,Sector 23 – Construction,Subsector 238 – Specialty Trade Contractors,Electrical Contractors and Other Wiring Installation Contractors,16.5,
+23.0,238220,Sector 23 – Construction,Subsector 238 – Specialty Trade Contractors,"Plumbing, Heating, and Air‑Conditioning Contractors   ",16.5,
+23.0,238290,Sector 23 – Construction,Subsector 238 – Specialty Trade Contractors,Other Building Equipment Contractors,16.5,
+23.0,238310,Sector 23 – Construction,Subsector 238 – Specialty Trade Contractors,Drywall and Insulation Contractors,16.5,
+23.0,238320,Sector 23 – Construction,Subsector 238 – Specialty Trade Contractors,Painting and Wall Covering Contractors,16.5,
+23.0,238330,Sector 23 – Construction,Subsector 238 – Specialty Trade Contractors,Flooring Contractors,16.5,
+23.0,238340,Sector 23 – Construction,Subsector 238 – Specialty Trade Contractors,Tile and Terrazzo Contractors,16.5,
+23.0,238350,Sector 23 – Construction,Subsector 238 – Specialty Trade Contractors,Finish Carpentry Contractors,16.5,
+23.0,238390,Sector 23 – Construction,Subsector 238 – Specialty Trade Contractors,Other Building Finishing Contractors,16.5,
+23.0,238910,Sector 23 – Construction,Subsector 238 – Specialty Trade Contractors,Site Preparation Contractors,16.5,
+23.0,238990,Sector 23 – Construction,Subsector 238 – Specialty Trade Contractors,All Other Specialty Trade Contractors,16.5,
+23.0,238990_Except   ,Sector 23 – Construction,Subsector 238 – Specialty Trade Contractors,Building and Property Specialty Trade Services 13,16.5,
+31.0,311111,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Dog and Cat Food Manufacturing,,1000.0
+31.0,311119,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Other Animal Food Manufacturing,,500.0
+31.0,311211,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Flour Milling,,1000.0
+31.0,311212,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Rice Milling,,500.0
+31.0,311213,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Malt Manufacturing,,500.0
+31.0,311221,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Wet Corn Milling,,1250.0
+31.0,311224,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Soybean and Other Oilseed Processing,,1000.0
+31.0,311225,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Fats and Oils Refining and Blending,,1000.0
+31.0,311230,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Breakfast Cereal Manufacturing,,1000.0
+31.0,311313,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Beet Sugar Manufacturing,,750.0
+31.0,311314,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Cane Sugar Manufacturing,,1000.0
+31.0,311340,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Nonchocolate Confectionery Manufacturing,,1000.0
+31.0,311351,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Chocolate and Confectionery Manufacturing from Cacao Beans,,1250.0
+31.0,311352,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Confectionery Manufacturing from Purchased Chocolate,,1000.0
+31.0,311411,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,"Frozen Fruit, Juice and Vegetable Manufacturing",,1000.0
+31.0,311412,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Frozen Specialty Food Manufacturing,,1250.0
+31.0,311421,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Fruit and Vegetable Canning3,,1000.0
+31.0,311422,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Specialty Canning,,1250.0
+31.0,311423,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Dried and Dehydrated Food Manufacturing,,750.0
+31.0,311511,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Fluid Milk Manufacturing,,1000.0
+31.0,311512,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Creamery Butter Manufacturing,,750.0
+31.0,311513,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Cheese Manufacturing,,1250.0
+31.0,311514,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,"Dry, Condensed, and Evaporated Dairy Product Manufacturing",,750.0
+31.0,311520,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Ice Cream and Frozen Dessert Manufacturing,,1000.0
+31.0,311611,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Animal (except Poultry) Slaughtering,,1000.0
+31.0,311612,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Meat Processed from Carcasses,,1000.0
+31.0,311613,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Rendering and Meat Byproduct Processing,,750.0
+31.0,311615,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Poultry Processing,,1250.0
+31.0,311710,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Seafood Product Preparation and Packaging,,750.0
+31.0,311811,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Retail Bakeries,,500.0
+31.0,311812,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Commercial Bakeries,,1000.0
+31.0,311813,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,"Frozen Cakes, Pies, and Other Pastries Manufacturing",,750.0
+31.0,311821,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Cookie and Cracker Manufacturing,,1250.0
+31.0,311824,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,"Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour",,750.0
+31.0,311830,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Tortilla Manufacturing,,1250.0
+31.0,311911,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Roasted Nuts and Peanut Butter Manufacturing,,750.0
+31.0,311919,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Other Snack Food Manufacturing,,1250.0
+31.0,311920,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Coffee and Tea Manufacturing,,750.0
+31.0,311930,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Flavoring Syrup and Concentrate Manufacturing,,1000.0
+31.0,311941,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,"Mayonnaise, Dressing and Other Prepared Sauce Manufacturing",,750.0
+31.0,311942,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Spice and Extract Manufacturing,,500.0
+31.0,311991,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,Perishable Prepared Food Manufacturing,,500.0
+31.0,311999,Sector 31 – 33 – Manufacturing,Subsector 311 – Food Manufacturing,All Other Miscellaneous Food Manufacturing,,500.0
+31.0,312111,Sector 31 – 33 – Manufacturing,Subsector 312 – Beverage and Tobacco Product Manufacturing,Soft Drink Manufacturing  ,,1250.0
+31.0,312112,Sector 31 – 33 – Manufacturing,Subsector 312 – Beverage and Tobacco Product Manufacturing,Bottled Water Manufacturing,,1000.0
+31.0,312113,Sector 31 – 33 – Manufacturing,Subsector 312 – Beverage and Tobacco Product Manufacturing,Ice Manufacturing,,750.0
+31.0,312120,Sector 31 – 33 – Manufacturing,Subsector 312 – Beverage and Tobacco Product Manufacturing,Breweries,,1250.0
+31.0,312130,Sector 31 – 33 – Manufacturing,Subsector 312 – Beverage and Tobacco Product Manufacturing,Wineries,,1000.0
+31.0,312140,Sector 31 – 33 – Manufacturing,Subsector 312 – Beverage and Tobacco Product Manufacturing,Distilleries,,1000.0
+31.0,312230,Sector 31 – 33 – Manufacturing,Subsector 312 – Beverage and Tobacco Product Manufacturing,Tobacco Manufacturing,,1500.0
+31.0,313110,Sector 31 – 33 – Manufacturing,Subsector 313 – Textile Mills,"Fiber, Yarn, and Thread Mills",,1250.0
+31.0,313210,Sector 31 – 33 – Manufacturing,Subsector 313 – Textile Mills,Broadwoven Fabric Mills,,1000.0
+31.0,313220,Sector 31 – 33 – Manufacturing,Subsector 313 – Textile Mills,Narrow Fabric Mills and Schiffli Machine Embroidery,,500.0
+31.0,313230,Sector 31 – 33 – Manufacturing,Subsector 313 – Textile Mills,Nonwoven Fabric Mills,,750.0
+31.0,313240,Sector 31 – 33 – Manufacturing,Subsector 313 – Textile Mills,Knit Fabric Mills,,500.0
+31.0,313310,Sector 31 – 33 – Manufacturing,Subsector 313 – Textile Mills,Textile and Fabric Finishing Mills,,1000.0
+31.0,313320,Sector 31 – 33 – Manufacturing,Subsector 313 – Textile Mills,Fabric Coating Mills,,1000.0
+31.0,314110,Sector 31 – 33 – Manufacturing,Subsector 314 – Textile Product Mills,Carpet and Rug Mills,,1500.0
+31.0,314120,Sector 31 – 33 – Manufacturing,Subsector 314 – Textile Product Mills,Curtain and Linen Mills,,750.0
+31.0,314910,Sector 31 – 33 – Manufacturing,Subsector 314 – Textile Product Mills,Textile Bag and Canvas Mills,,500.0
+31.0,314994,Sector 31 – 33 – Manufacturing,Subsector 314 – Textile Product Mills,"Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills",,1000.0
+31.0,314999,Sector 31 – 33 – Manufacturing,Subsector 314 – Textile Product Mills,All Other Miscellaneous Textile Product Mills,,500.0
+31.0,315110,Sector 31 – 33 – Manufacturing,Subsector 315 – Apparel Manufacturing,Hosiery and Sock Mills,,750.0
+31.0,315190,Sector 31 – 33 – Manufacturing,Subsector 315 – Apparel Manufacturing,Other Apparel Knitting Mills,,750.0
+31.0,315210,Sector 31 – 33 – Manufacturing,Subsector 315 – Apparel Manufacturing,Cut and Sew Apparel Contractors,,750.0
+31.0,315220,Sector 31 – 33 – Manufacturing,Subsector 315 – Apparel Manufacturing,Men's and Boys' Cut and Sew Apparel Manufacturing,,750.0
+31.0,315240,Sector 31 – 33 – Manufacturing,Subsector 315 – Apparel Manufacturing,"Women's, Girls', and Infants' Cut and Sew Apparel Manufacturing",,750.0
+31.0,315280,Sector 31 – 33 – Manufacturing,Subsector 315 – Apparel Manufacturing,Other Cut and Sew Apparel Manufacturing,,750.0
+31.0,315990,Sector 31 – 33 – Manufacturing,Subsector 315 – Apparel Manufacturing,Apparel Accessories and Other Apparel Manufacturing,,500.0
+31.0,316110,Sector 31 – 33 – Manufacturing,Subsector 316 – Leather and Allied Product Manufacturing,Leather and Hide Tanning and Finishing,,500.0
+31.0,316210,Sector 31 – 33 – Manufacturing,Subsector 316 – Leather and Allied Product Manufacturing,Footwear Manufacturing,,1000.0
+31.0,316992,Sector 31 – 33 – Manufacturing,Subsector 316 – Leather and Allied Product Manufacturing,Women’s Handbag and Purse Manufacturing,,750.0
+31.0,316998,Sector 31 – 33 – Manufacturing,Subsector 316 – Leather and Allied Product Manufacturing,All Other Leather Good and Allied Product Manufacturing,,500.0
+32.0,321113,Sector 31 – 33 – Manufacturing,Subsector 321 – Wood Product Manufacturing,Sawmills,,500.0
+32.0,321114,Sector 31 – 33 – Manufacturing,Subsector 321 – Wood Product Manufacturing,Wood Preservation  ,,500.0
+32.0,321211,Sector 31 – 33 – Manufacturing,Subsector 321 – Wood Product Manufacturing,Hardwood Veneer and Plywood Manufacturing  ,,500.0
+32.0,321212,Sector 31 – 33 – Manufacturing,Subsector 321 – Wood Product Manufacturing,Softwood Veneer and Plywood Manufacturing  ,,1250.0
+32.0,321213,Sector 31 – 33 – Manufacturing,Subsector 321 – Wood Product Manufacturing,Engineered Wood Member (except Truss) Manufacturing  ,,750.0
+32.0,321214,Sector 31 – 33 – Manufacturing,Subsector 321 – Wood Product Manufacturing,Truss Manufacturing  ,,500.0
+32.0,321219,Sector 31 – 33 – Manufacturing,Subsector 321 – Wood Product Manufacturing,Reconstituted Wood Product Manufacturing  ,,750.0
+32.0,321911,Sector 31 – 33 – Manufacturing,Subsector 321 – Wood Product Manufacturing,Wood Window and Door Manufacturing  ,,1000.0
+32.0,321912,Sector 31 – 33 – Manufacturing,Subsector 321 – Wood Product Manufacturing,"Cut Stock, Resawing Lumber, and Planing  ",,500.0
+32.0,321918,Sector 31 – 33 – Manufacturing,Subsector 321 – Wood Product Manufacturing,Other Millwork (including Flooring)  ,,500.0
+32.0,321920,Sector 31 – 33 – Manufacturing,Subsector 321 – Wood Product Manufacturing,Wood Container and Pallet Manufacturing,,500.0
+32.0,321991,Sector 31 – 33 – Manufacturing,Subsector 321 – Wood Product Manufacturing,Manufactured Home (Mobile Home) Manufacturing,,1250.0
+32.0,321992,Sector 31 – 33 – Manufacturing,Subsector 321 – Wood Product Manufacturing,Prefabricated Wood Building Manufacturing,,500.0
+32.0,321999,Sector 31 – 33 – Manufacturing,Subsector 321 – Wood Product Manufacturing,All Other Miscellaneous Wood Product Manufacturing,,500.0
+32.0,322110,Sector 31 – 33 – Manufacturing,Subsector 322 – Paper Manufacturing,Pulp Mills,,750.0
+32.0,322121,Sector 31 – 33 – Manufacturing,Subsector 322 – Paper Manufacturing,Paper (except Newsprint) Mills,,1250.0
+32.0,322122,Sector 31 – 33 – Manufacturing,Subsector 322 – Paper Manufacturing,Newsprint Mills,,750.0
+32.0,322130,Sector 31 – 33 – Manufacturing,Subsector 322 – Paper Manufacturing,Paperboard Mills,,1250.0
+32.0,322211,Sector 31 – 33 – Manufacturing,Subsector 322 – Paper Manufacturing,Corrugated and Solid Fiber Box Manufacturing,,1250.0
+32.0,322212,Sector 31 – 33 – Manufacturing,Subsector 322 – Paper Manufacturing,Folding Paperboard Box Manufacturing,,750.0
+32.0,322219,Sector 31 – 33 – Manufacturing,Subsector 322 – Paper Manufacturing,Other Paperboard Container Manufacturing,,1000.0
+32.0,322220,Sector 31 – 33 – Manufacturing,Subsector 322 – Paper Manufacturing,Paper Bag and Coated and Treated Paper Manufacturing,,750.0
+32.0,322230,Sector 31 – 33 – Manufacturing,Subsector 322 – Paper Manufacturing,Stationery Product Manufacturing,,750.0
+32.0,322291,Sector 31 – 33 – Manufacturing,Subsector 322 – Paper Manufacturing,Sanitary Paper Product Manufacturing,,1500.0
+32.0,322299,Sector 31 – 33 – Manufacturing,Subsector 322 – Paper Manufacturing,All Other Converted Paper Product Manufacturing  ,,500.0
+32.0,323111,Sector 31 – 33 – Manufacturing,Subsector 323 – Printing and Related Support Activities,Commercial Printing (except Screen and Books),,500.0
+32.0,323113,Sector 31 – 33 – Manufacturing,Subsector 323 – Printing and Related Support Activities,Commercial Screen Printing,,500.0
+32.0,323117,Sector 31 – 33 – Manufacturing,Subsector 323 – Printing and Related Support Activities,Books Printing,,1250.0
+32.0,323120,Sector 31 – 33 – Manufacturing,Subsector 323 – Printing and Related Support Activities,Support Activities for Printing,,500.0
+32.0,324110,Sector 31 – 33 – Manufacturing,Subsector 324 – Petroleum and Coal Products Manufacturing,Petroleum Refineries4,,1500.0
+32.0,324121,Sector 31 – 33 – Manufacturing,Subsector 324 – Petroleum and Coal Products Manufacturing,Asphalt Paving Mixture and Block Manufacturing,,500.0
+32.0,324122,Sector 31 – 33 – Manufacturing,Subsector 324 – Petroleum and Coal Products Manufacturing,Asphalt Shingle and Coating Materials Manufacturing,,750.0
+32.0,324191,Sector 31 – 33 – Manufacturing,Subsector 324 – Petroleum and Coal Products Manufacturing,Petroleum Lubricating Oil and Grease Manufacturing,,750.0
+32.0,324199,Sector 31 – 33 – Manufacturing,Subsector 324 – Petroleum and Coal Products Manufacturing,All Other Petroleum and Coal Products Manufacturing,,500.0
+32.0,325110,Sector 31 – 33 – Manufacturing,Subsector 325 – Chemical Manufacturing,Petrochemical Manufacturing,,1000.0
+32.0,325120,Sector 31 – 33 – Manufacturing,Subsector 325 – Chemical Manufacturing,Industrial Gas Manufacturing,,1000.0
+32.0,325130,Sector 31 – 33 – Manufacturing,Subsector 325 – Chemical Manufacturing,Synthetic Dye and Pigment Manufacturing,,1000.0
+32.0,325180,Sector 31 – 33 – Manufacturing,Subsector 325 – Chemical Manufacturing,Other Basic Inorganic Chemical Manufacturing,,1000.0
+32.0,325193,Sector 31 – 33 – Manufacturing,Subsector 325 – Chemical Manufacturing,Ethyl Alcohol Manufacturing,,1000.0
+32.0,325194,Sector 31 – 33 – Manufacturing,Subsector 325 – Chemical Manufacturing,"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing",,1250.0
+32.0,325199,Sector 31 – 33 – Manufacturing,Subsector 325 – Chemical Manufacturing,All Other Basic Organic Chemical Manufacturing  ,,1250.0
+32.0,325211,Sector 31 – 33 – Manufacturing,Subsector 325 – Chemical Manufacturing,Plastics Material and Resin Manufacturing,,1250.0
+32.0,325212,Sector 31 – 33 – Manufacturing,Subsector 325 – Chemical Manufacturing,Synthetic Rubber Manufacturing,,1000.0
+32.0,325220,Sector 31 – 33 – Manufacturing,Subsector 325 – Chemical Manufacturing,Artificial and Synthetic Fibers and Filaments Manufacturing,,1000.0
+32.0,325311,Sector 31 – 33 – Manufacturing,Subsector 325 – Chemical Manufacturing,Nitrogenous Fertilizer Manufacturing,,1000.0
+32.0,325312,Sector 31 – 33 – Manufacturing,Subsector 325 – Chemical Manufacturing,Phosphatic Fertilizer Manufacturing,,750.0
+32.0,325314,Sector 31 – 33 – Manufacturing,Subsector 325 – Chemical Manufacturing,Fertilizer (Mixing Only) Manufacturing,,500.0
+32.0,325320,Sector 31 – 33 – Manufacturing,Subsector 325 – Chemical Manufacturing,Pesticide and Other Agricultural Chemical Manufacturing,,1000.0
+32.0,325411,Sector 31 – 33 – Manufacturing,Subsector 325 – Chemical Manufacturing,Medicinal and Botanical Manufacturing,,1000.0
+32.0,325412,Sector 31 – 33 – Manufacturing,Subsector 325 – Chemical Manufacturing,Pharmaceutical Preparation Manufacturing,,1250.0
+32.0,325413,Sector 31 – 33 – Manufacturing,Subsector 325 – Chemical Manufacturing,In‑Vitro Diagnostic Substance Manufacturing,,1250.0
+32.0,325414,Sector 31 – 33 – Manufacturing,Subsector 325 – Chemical Manufacturing,Biological Product (except Diagnostic) Manufacturing,,1250.0
+32.0,325510,Sector 31 – 33 – Manufacturing,Subsector 325 – Chemical Manufacturing,Paint and Coating Manufacturing,,1000.0
+32.0,325520,Sector 31 – 33 – Manufacturing,Subsector 325 – Chemical Manufacturing,Adhesive Manufacturing,,500.0
+32.0,325611,Sector 31 – 33 – Manufacturing,Subsector 325 – Chemical Manufacturing,Soap and Other Detergent Manufacturing,,1000.0
+32.0,325612,Sector 31 – 33 – Manufacturing,Subsector 325 – Chemical Manufacturing,Polish and Other Sanitation Good Manufacturing  ,,750.0
+32.0,325613,Sector 31 – 33 – Manufacturing,Subsector 325 – Chemical Manufacturing,Surface Active Agent Manufacturing,,750.0
+32.0,325620,Sector 31 – 33 – Manufacturing,Subsector 325 – Chemical Manufacturing,Toilet Preparation Manufacturing,,1250.0
+32.0,325910,Sector 31 – 33 – Manufacturing,Subsector 325 – Chemical Manufacturing,Printing Ink Manufacturing,,500.0
+32.0,325920,Sector 31 – 33 – Manufacturing,Subsector 325 – Chemical Manufacturing,Explosives Manufacturing,,750.0
+32.0,325991,Sector 31 – 33 – Manufacturing,Subsector 325 – Chemical Manufacturing,Custom Compounding of Purchased Resins,,500.0
+32.0,325992,Sector 31 – 33 – Manufacturing,Subsector 325 – Chemical Manufacturing,"Photographic Film, Paper, Plate and Chemical Manufacturing",,1500.0
+32.0,325998,Sector 31 – 33 – Manufacturing,Subsector 325 – Chemical Manufacturing,All Other Miscellaneous Chemical Product and Preparation Manufacturing,,500.0
+32.0,326111,Sector 31 – 33 – Manufacturing,Subsector 326 – Plastics and Rubber Products Manufacturing,Plastic Bag and Pouch Manufacturing,,750.0
+32.0,326112,Sector 31 – 33 – Manufacturing,Subsector 326 – Plastics and Rubber Products Manufacturing,Plastics Packaging Film and Sheet (including Laminated) Manufacturing,,1000.0
+32.0,326113,Sector 31 – 33 – Manufacturing,Subsector 326 – Plastics and Rubber Products Manufacturing,Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing,,750.0
+32.0,326121,Sector 31 – 33 – Manufacturing,Subsector 326 – Plastics and Rubber Products Manufacturing,Unlaminated Plastics Profile Shape Manufacturing,,500.0
+32.0,326122,Sector 31 – 33 – Manufacturing,Subsector 326 – Plastics and Rubber Products Manufacturing,Plastics Pipe and Pipe Fitting Manufacturing,,750.0
+32.0,326130,Sector 31 – 33 – Manufacturing,Subsector 326 – Plastics and Rubber Products Manufacturing,"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",,500.0
+32.0,326140,Sector 31 – 33 – Manufacturing,Subsector 326 – Plastics and Rubber Products Manufacturing,Polystyrene Foam Product Manufacturing,,1000.0
+32.0,326150,Sector 31 – 33 – Manufacturing,Subsector 326 – Plastics and Rubber Products Manufacturing,Urethane and Other Foam Product (except Polystyrene) Manufacturing,,750.0
+32.0,326160,Sector 31 – 33 – Manufacturing,Subsector 326 – Plastics and Rubber Products Manufacturing,Plastics Bottle Manufacturing,,1250.0
+32.0,326191,Sector 31 – 33 – Manufacturing,Subsector 326 – Plastics and Rubber Products Manufacturing,Plastics Plumbing Fixture Manufacturing,,750.0
+32.0,326199,Sector 31 – 33 – Manufacturing,Subsector 326 – Plastics and Rubber Products Manufacturing,All Other Plastics Product Manufacturing,,750.0
+32.0,326211,Sector 31 – 33 – Manufacturing,Subsector 326 – Plastics and Rubber Products Manufacturing,Tire Manufacturing (except Retreading)5,,1500.0
+32.0,326212,Sector 31 – 33 – Manufacturing,Subsector 326 – Plastics and Rubber Products Manufacturing,Tire Retreading,,500.0
+32.0,326220,Sector 31 – 33 – Manufacturing,Subsector 326 – Plastics and Rubber Products Manufacturing,Rubber and Plastics Hoses and Belting Manufacturing,,750.0
+32.0,326291,Sector 31 – 33 – Manufacturing,Subsector 326 – Plastics and Rubber Products Manufacturing,Rubber Product Manufacturing for Mechanical Use,,750.0
+32.0,326299,Sector 31 – 33 – Manufacturing,Subsector 326 – Plastics and Rubber Products Manufacturing,All Other Rubber Product Manufacturing,,500.0
+32.0,327110,Sector 31 – 33 – Manufacturing,Subsector 327 – Nonmetallic Mineral Product Manufacturing,"Pottery, Ceramics, and Plumbing Fixture Manufacturing",,1000.0
+32.0,327120,Sector 31 – 33 – Manufacturing,Subsector 327 – Nonmetallic Mineral Product Manufacturing,Clay Building Material and Refractories Manufacturing,,750.0
+32.0,327211,Sector 31 – 33 – Manufacturing,Subsector 327 – Nonmetallic Mineral Product Manufacturing,Flat Glass Manufacturing,,1000.0
+32.0,327212,Sector 31 – 33 – Manufacturing,Subsector 327 – Nonmetallic Mineral Product Manufacturing,Other Pressed and Blown Glass and Glassware Manufacturing,,1250.0
+32.0,327213,Sector 31 – 33 – Manufacturing,Subsector 327 – Nonmetallic Mineral Product Manufacturing,Glass Container Manufacturing,,1250.0
+32.0,327215,Sector 31 – 33 – Manufacturing,Subsector 327 – Nonmetallic Mineral Product Manufacturing,Glass Product Manufacturing Made of Purchased Glass,,1000.0
+32.0,327310,Sector 31 – 33 – Manufacturing,Subsector 327 – Nonmetallic Mineral Product Manufacturing,Cement Manufacturing,,1000.0
+32.0,327320,Sector 31 – 33 – Manufacturing,Subsector 327 – Nonmetallic Mineral Product Manufacturing,Ready‑Mix Concrete Manufacturing,,500.0
+32.0,327331,Sector 31 – 33 – Manufacturing,Subsector 327 – Nonmetallic Mineral Product Manufacturing,Concrete Block and Brick Manufacturing,,500.0
+32.0,327332,Sector 31 – 33 – Manufacturing,Subsector 327 – Nonmetallic Mineral Product Manufacturing,Concrete Pipe Manufacturing,,750.0
+32.0,327390,Sector 31 – 33 – Manufacturing,Subsector 327 – Nonmetallic Mineral Product Manufacturing,Other Concrete Product Manufacturing,,500.0
+32.0,327410,Sector 31 – 33 – Manufacturing,Subsector 327 – Nonmetallic Mineral Product Manufacturing,Lime Manufacturing,,750.0
+32.0,327420,Sector 31 – 33 – Manufacturing,Subsector 327 – Nonmetallic Mineral Product Manufacturing,Gypsum Product Manufacturing,,1500.0
+32.0,327910,Sector 31 – 33 – Manufacturing,Subsector 327 – Nonmetallic Mineral Product Manufacturing,Abrasive Product Manufacturing,,750.0
+32.0,327991,Sector 31 – 33 – Manufacturing,Subsector 327 – Nonmetallic Mineral Product Manufacturing,Cut Stone and Stone Product Manufacturing,,500.0
+32.0,327992,Sector 31 – 33 – Manufacturing,Subsector 327 – Nonmetallic Mineral Product Manufacturing,Ground or Treated Mineral and Earth Manufacturing,,500.0
+32.0,327993,Sector 31 – 33 – Manufacturing,Subsector 327 – Nonmetallic Mineral Product Manufacturing,Mineral Wool Manufacturing,,1500.0
+32.0,327999,Sector 31 – 33 – Manufacturing,Subsector 327 – Nonmetallic Mineral Product Manufacturing,All Other Miscellaneous Nonmetallic Mineral Product Manufacturing,,500.0
+33.0,331110,Sector 31 – 33 – Manufacturing,Subsector 331 – Primary Metal Manufacturing,Iron and Steel Mills and Ferroalloy Manufacturing,,1500.0
+33.0,331210,Sector 31 – 33 – Manufacturing,Subsector 331 – Primary Metal Manufacturing,Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,,1000.0
+33.0,331221,Sector 31 – 33 – Manufacturing,Subsector 331 – Primary Metal Manufacturing,Rolled Steel Shape Manufacturing,,1000.0
+33.0,331222,Sector 31 – 33 – Manufacturing,Subsector 331 – Primary Metal Manufacturing,Steel Wire Drawing,,1000.0
+33.0,331313,Sector 31 – 33 – Manufacturing,Subsector 331 – Primary Metal Manufacturing,Alumina Refining and Primary Aluminum Production,,1000.0
+33.0,331314,Sector 31 – 33 – Manufacturing,Subsector 331 – Primary Metal Manufacturing,Secondary Smelting and Alloying of Aluminum,,750.0
+33.0,331315,Sector 31 – 33 – Manufacturing,Subsector 331 – Primary Metal Manufacturing,"Aluminum Sheet, Plate and Foil Manufacturing",,1250.0
+33.0,331318,Sector 31 – 33 – Manufacturing,Subsector 331 – Primary Metal Manufacturing,"Other Aluminum Rolling, Drawing, and Extruding",,750.0
+33.0,331410,Sector 31 – 33 – Manufacturing,Subsector 331 – Primary Metal Manufacturing,Nonferrous Metal (except Aluminum) Smelting and Refining,,1000.0
+33.0,331420,Sector 31 – 33 – Manufacturing,Subsector 331 – Primary Metal Manufacturing,"Copper Rolling, Drawing, Extruding, and Alloying",,1000.0
+33.0,331491,Sector 31 – 33 – Manufacturing,Subsector 331 – Primary Metal Manufacturing,"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing and Extruding",,750.0
+33.0,331492,Sector 31 – 33 – Manufacturing,Subsector 331 – Primary Metal Manufacturing,"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum)  ",,750.0
+33.0,331511,Sector 31 – 33 – Manufacturing,Subsector 331 – Primary Metal Manufacturing,Iron Foundries,,1000.0
+33.0,331512,Sector 31 – 33 – Manufacturing,Subsector 331 – Primary Metal Manufacturing,Steel Investment Foundries,,1000.0
+33.0,331513,Sector 31 – 33 – Manufacturing,Subsector 331 – Primary Metal Manufacturing,Steel Foundries (except Investment),,500.0
+33.0,331523,Sector 31 – 33 – Manufacturing,Subsector 331 – Primary Metal Manufacturing,Nonferrous Metal Die-Casting Foundries,,500.0
+33.0,331524,Sector 31 – 33 – Manufacturing,Subsector 331 – Primary Metal Manufacturing,Aluminum Foundries (except Die‑Casting),,500.0
+33.0,331529,Sector 31 – 33 – Manufacturing,Subsector 331 – Primary Metal Manufacturing,Other Nonferrous Metal Foundries (except Die-Casting),,500.0
+33.0,332111,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,Iron and Steel Forging,,750.0
+33.0,332112,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,Nonferrous Forging,,750.0
+33.0,332114,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,Custom Roll Forming,,500.0
+33.0,332117,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,Powder Metallurgy Part Manufacturing,,500.0
+33.0,332119,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,"Metal Crown, Closure, and Other Metal Stamping (except Automotive)",,500.0
+33.0,332215,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,"Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing",,750.0
+33.0,332216,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,Saw Blade and Handtool Manufacturing,,750.0
+33.0,332311,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,Prefabricated Metal Building and Component Manufacturing,,750.0
+33.0,332312,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,Fabricated Structural Metal Manufacturing,,500.0
+33.0,332313,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,Plate Work Manufacturing,,750.0
+33.0,332321,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,Metal Window and Door Manufacturing,,750.0
+33.0,332322,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,Sheet Metal Work Manufacturing,,500.0
+33.0,332323,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,Ornamental and Architectural Metal Work Manufacturing,,500.0
+33.0,332410,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,Power Boiler and Heat Exchanger Manufacturing  ,,750.0
+33.0,332420,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,Metal Tank (Heavy Gauge) Manufacturing,,750.0
+33.0,332431,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,Metal Can Manufacturing,,1500.0
+33.0,332439,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,Other Metal Container Manufacturing,,500.0
+33.0,332510,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,Hardware Manufacturing,,750.0
+33.0,332613,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,Spring Manufacturing,,500.0
+33.0,332618,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,Other Fabricated Wire Product Manufacturing,,500.0
+33.0,332710,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,Machine Shops,,500.0
+33.0,332721,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,Precision Turned Product Manufacturing,,500.0
+33.0,332722,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,"Bolt, Nut, Screw, Rivet and Washer Manufacturing",,500.0
+33.0,332811,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,Metal Heat Treating,,750.0
+33.0,332812,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,"Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers",,500.0
+33.0,332813,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,"Electroplating, Plating, Polishing, Anodizing and Coloring",,500.0
+33.0,332911,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,Industrial Valve Manufacturing,,750.0
+33.0,332912,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,Fluid Power Valve and Hose Fitting Manufacturing,,1000.0
+33.0,332913,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,Plumbing Fixture Fitting and Trim Manufacturing,,1000.0
+33.0,332919,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,Other Metal Valve and Pipe Fitting Manufacturing,,750.0
+33.0,332991,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,Ball and Roller Bearing Manufacturing,,1250.0
+33.0,332992,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,Small Arms Ammunition Manufacturing,,1250.0
+33.0,332993,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,Ammunition (except Small Arms) Manufacturing,,1500.0
+33.0,332994,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,"Small Arms, Ordnance, and Ordnance Accessories Manufacturing",,1000.0
+33.0,332996,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,Fabricated Pipe and Pipe Fitting Manufacturing,,500.0
+33.0,332999,Sector 31 – 33 – Manufacturing,Subsector 332 – Fabricated Metal Product Manufacturing,All Other Miscellaneous Fabricated Metal Product Manufacturing,,750.0
+33.0,333111,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Farm Machinery and Equipment Manufacturing  ,,1250.0
+33.0,333112,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing,,1500.0
+33.0,333120,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Construction Machinery Manufacturing,,1250.0
+33.0,333131,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Mining Machinery and Equipment Manufacturing,,500.0
+33.0,333132,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Oil and Gas Field Machinery and Equipment Manufacturing,,1250.0
+33.0,333241,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Food Product Machinery Manufacturing,,500.0
+33.0,333242,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Semiconductor Machinery Manufacturing,,1500.0
+33.0,333243,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,"Sawmill, Woodworking, and Paper Machinery Manufacturing",,500.0
+33.0,333244,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Printing Machinery and Equipment Manufacturing,,750.0
+33.0,333249,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Other Industrial Machinery Manufacturing,,500.0
+33.0,333314,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Optical Instrument and Lens Manufacturing,,500.0
+33.0,333316,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Photographic and Photocopying Equipment Manufacturing,,1000.0
+33.0,333318,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Other Commercial and Service Industry Machinery Manufacturing,,1000.0
+33.0,333413,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing,,500.0
+33.0,333414,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Heating Equipment (except Warm Air Furnaces) Manufacturing,,500.0
+33.0,333415,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Air‑Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing,,1250.0
+33.0,333511,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Industrial Mold Manufacturing,,500.0
+33.0,333514,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,"Special Die and Tool, Die Set, Jig and Fixture Manufacturing",,500.0
+33.0,333515,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Cutting Tool and Machine Tool Accessory Manufacturing,,500.0
+33.0,333517,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Machine Tool Manufacturing,,500.0
+33.0,333519,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Rolling Mill and Other Metalworking Machinery Manufacturing,,500.0
+33.0,333611,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Turbine and Turbine Generator Set Unit Manufacturing,,1500.0
+33.0,333612,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,"Speed Changer, Industrial High‑Speed Drive and Gear Manufacturing",,750.0
+33.0,333613,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Mechanical Power Transmission Equipment Manufacturing,,750.0
+33.0,333618,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Other Engine Equipment Manufacturing,,1500.0
+33.0,333912,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Air and Gas Compressor Manufacturing,,1000.0
+33.0,333914,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,"Measuring, Dispensing, and Other Pumping Equipment Manufacturing",,750.0
+33.0,333921,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Elevator and Moving Stairway Manufacturing,,1000.0
+33.0,333922,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Conveyor and Conveying Equipment Manufacturing  ,,500.0
+33.0,333923,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,"Overhead Traveling Crane, Hoist and Monorail System Manufacturing",,1250.0
+33.0,333924,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,"Industrial Truck, Tractor, Trailer and Stacker Machinery Manufacturing",,750.0
+33.0,333991,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Power‑Driven Hand Tool Manufacturing,,500.0
+33.0,333992,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Welding and Soldering Equipment Manufacturing,,1250.0
+33.0,333993,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Packaging Machinery Manufacturing,,500.0
+33.0,333994,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Industrial Process Furnace and Oven Manufacturing,,500.0
+33.0,333995,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Fluid Power Cylinder and Actuator Manufacturing,,750.0
+33.0,333996,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Fluid Power Pump and Motor Manufacturing,,1250.0
+33.0,333997,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,Scale and Balance Manufacturing,,500.0
+33.0,333999,Sector 31 – 33 – Manufacturing,Subsector 333 – Machinery Manufacturing6,All Other Miscellaneous General Purpose Machinery Manufacturing,,500.0
+33.0,334111,Sector 31 – 33 – Manufacturing,Subsector 334 – Computer and Electronic Product Manufacturing6,Electronic Computer Manufacturing,,1250.0
+33.0,334112,Sector 31 – 33 – Manufacturing,Subsector 334 – Computer and Electronic Product Manufacturing6,Computer Storage Device Manufacturing,,1250.0
+33.0,334118,Sector 31 – 33 – Manufacturing,Subsector 334 – Computer and Electronic Product Manufacturing6,Computer Terminal and Other Computer Peripheral Equipment Manufacturing,,1000.0
+33.0,334210,Sector 31 – 33 – Manufacturing,Subsector 334 – Computer and Electronic Product Manufacturing6,Telephone Apparatus Manufacturing,,1250.0
+33.0,334220,Sector 31 – 33 – Manufacturing,Subsector 334 – Computer and Electronic Product Manufacturing6,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,,1250.0
+33.0,334290,Sector 31 – 33 – Manufacturing,Subsector 334 – Computer and Electronic Product Manufacturing6,Other Communications Equipment Manufacturing,,750.0
+33.0,334310,Sector 31 – 33 – Manufacturing,Subsector 334 – Computer and Electronic Product Manufacturing6,Audio and Video Equipment Manufacturing,,750.0
+33.0,334412,Sector 31 – 33 – Manufacturing,Subsector 334 – Computer and Electronic Product Manufacturing6,Bare Printed Circuit Board Manufacturing,,750.0
+33.0,334413,Sector 31 – 33 – Manufacturing,Subsector 334 – Computer and Electronic Product Manufacturing6,Semiconductor and Related Device Manufacturing,,1250.0
+33.0,334416,Sector 31 – 33 – Manufacturing,Subsector 334 – Computer and Electronic Product Manufacturing6,"Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing",,500.0
+33.0,334417,Sector 31 – 33 – Manufacturing,Subsector 334 – Computer and Electronic Product Manufacturing6,Electronic Connector Manufacturing,,1000.0
+33.0,334418,Sector 31 – 33 – Manufacturing,Subsector 334 – Computer and Electronic Product Manufacturing6,Printed Circuit Assembly (Electronic Assembly) Manufacturing,,750.0
+33.0,334419,Sector 31 – 33 – Manufacturing,Subsector 334 – Computer and Electronic Product Manufacturing6,Other Electronic Component Manufacturing,,750.0
+33.0,334510,Sector 31 – 33 – Manufacturing,Subsector 334 – Computer and Electronic Product Manufacturing6,Electromedical and Electrotherapeutic Apparatus Manufacturing,,1250.0
+33.0,334511,Sector 31 – 33 – Manufacturing,Subsector 334 – Computer and Electronic Product Manufacturing6,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing",,1250.0
+33.0,334512,Sector 31 – 33 – Manufacturing,Subsector 334 – Computer and Electronic Product Manufacturing6,"Automatic Environmental Control Manufacturing for Residential, Commercial and Appliance Use",,500.0
+33.0,334513,Sector 31 – 33 – Manufacturing,Subsector 334 – Computer and Electronic Product Manufacturing6,"Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables",,750.0
+33.0,334514,Sector 31 – 33 – Manufacturing,Subsector 334 – Computer and Electronic Product Manufacturing6,Totalizing Fluid Meter and Counting Device Manufacturing,,750.0
+33.0,334515,Sector 31 – 33 – Manufacturing,Subsector 334 – Computer and Electronic Product Manufacturing6,Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals,,750.0
+33.0,334516,Sector 31 – 33 – Manufacturing,Subsector 334 – Computer and Electronic Product Manufacturing6,Analytical Laboratory Instrument Manufacturing,,1000.0
+33.0,334517,Sector 31 – 33 – Manufacturing,Subsector 334 – Computer and Electronic Product Manufacturing6,Irradiation Apparatus Manufacturing,,1000.0
+33.0,334519,Sector 31 – 33 – Manufacturing,Subsector 334 – Computer and Electronic Product Manufacturing6,Other Measuring and Controlling Device Manufacturing,,500.0
+33.0,334613,Sector 31 – 33 – Manufacturing,Subsector 334 – Computer and Electronic Product Manufacturing6,Blank Magnetic and Optical Recording Media Manufacturing,,1000.0
+33.0,334614,Sector 31 – 33 – Manufacturing,Subsector 334 – Computer and Electronic Product Manufacturing6,"Software and Other Prerecorded Compact Disc, Tape, and Record Reproducing",,1250.0
+33.0,335110,Sector 31 – 33 – Manufacturing,"Subsector 335 – Electrical Equipment, Appliance and Component Manufacturing6",Electric Lamp Bulb and Part Manufacturing,,1250.0
+33.0,335121,Sector 31 – 33 – Manufacturing,"Subsector 335 – Electrical Equipment, Appliance and Component Manufacturing6",Residential Electric Lighting Fixture Manufacturing,,750.0
+33.0,335122,Sector 31 – 33 – Manufacturing,"Subsector 335 – Electrical Equipment, Appliance and Component Manufacturing6","Commercial, Industrial and Institutional Electric Lighting Fixture Manufacturing",,500.0
+33.0,335129,Sector 31 – 33 – Manufacturing,"Subsector 335 – Electrical Equipment, Appliance and Component Manufacturing6",Other Lighting Equipment Manufacturing,,500.0
+33.0,335210,Sector 31 – 33 – Manufacturing,"Subsector 335 – Electrical Equipment, Appliance and Component Manufacturing6",Small Electrical Appliance Manufacturing,,1500.0
+33.0,335220,Sector 31 – 33 – Manufacturing,"Subsector 335 – Electrical Equipment, Appliance and Component Manufacturing6",Major Household Appliance Manufacturing,,1500.0
+33.0,335311,Sector 31 – 33 – Manufacturing,"Subsector 335 – Electrical Equipment, Appliance and Component Manufacturing6","Power, Distribution and Specialty Transformer Manufacturing",,750.0
+33.0,335312,Sector 31 – 33 – Manufacturing,"Subsector 335 – Electrical Equipment, Appliance and Component Manufacturing6",Motor and Generator Manufacturing,,1250.0
+33.0,335313,Sector 31 – 33 – Manufacturing,"Subsector 335 – Electrical Equipment, Appliance and Component Manufacturing6",Switchgear and Switchboard Apparatus Manufacturing,,1250.0
+33.0,335314,Sector 31 – 33 – Manufacturing,"Subsector 335 – Electrical Equipment, Appliance and Component Manufacturing6",Relay and Industrial Control Manufacturing,,750.0
+33.0,335911,Sector 31 – 33 – Manufacturing,"Subsector 335 – Electrical Equipment, Appliance and Component Manufacturing6",Storage Battery Manufacturing,,1250.0
+33.0,335912,Sector 31 – 33 – Manufacturing,"Subsector 335 – Electrical Equipment, Appliance and Component Manufacturing6",Primary Battery Manufacturing,,1000.0
+33.0,335921,Sector 31 – 33 – Manufacturing,"Subsector 335 – Electrical Equipment, Appliance and Component Manufacturing6",Fiber Optic Cable Manufacturing,,1000.0
+33.0,335929,Sector 31 – 33 – Manufacturing,"Subsector 335 – Electrical Equipment, Appliance and Component Manufacturing6",Other Communication and Energy Wire Manufacturing,,1000.0
+33.0,335931,Sector 31 – 33 – Manufacturing,"Subsector 335 – Electrical Equipment, Appliance and Component Manufacturing6",Current‑Carrying Wiring Device Manufacturing,,500.0
+33.0,335932,Sector 31 – 33 – Manufacturing,"Subsector 335 – Electrical Equipment, Appliance and Component Manufacturing6",Noncurrent‑Carrying Wiring Device Manufacturing,,1000.0
+33.0,335991,Sector 31 – 33 – Manufacturing,"Subsector 335 – Electrical Equipment, Appliance and Component Manufacturing6",Carbon and Graphite Product Manufacturing,,750.0
+33.0,335999,Sector 31 – 33 – Manufacturing,"Subsector 335 – Electrical Equipment, Appliance and Component Manufacturing6",All Other Miscellaneous Electrical Equipment and Component Manufacturing,,500.0
+33.0,336111,Sector 31 – 33 – Manufacturing,Subsector 336 – Transportation Equipment Manufacturing6,Automobile Manufacturing,,1500.0
+33.0,336112,Sector 31 – 33 – Manufacturing,Subsector 336 – Transportation Equipment Manufacturing6,Light Truck and Utility Vehicle Manufacturing  ,,1500.0
+33.0,336120,Sector 31 – 33 – Manufacturing,Subsector 336 – Transportation Equipment Manufacturing6,Heavy Duty Truck Manufacturing,,1500.0
+33.0,336211,Sector 31 – 33 – Manufacturing,Subsector 336 – Transportation Equipment Manufacturing6,Motor Vehicle Body Manufacturing,,1000.0
+33.0,336212,Sector 31 – 33 – Manufacturing,Subsector 336 – Transportation Equipment Manufacturing6,Truck Trailer Manufacturing,,1000.0
+33.0,336213,Sector 31 – 33 – Manufacturing,Subsector 336 – Transportation Equipment Manufacturing6,Motor Home Manufacturing,,1250.0
+33.0,336214,Sector 31 – 33 – Manufacturing,Subsector 336 – Transportation Equipment Manufacturing6,Travel Trailer and Camper Manufacturing,,1000.0
+33.0,336310,Sector 31 – 33 – Manufacturing,Subsector 336 – Transportation Equipment Manufacturing6,Motor Vehicle Gasoline Engine and Engine Parts Manufacturing,,1000.0
+33.0,336320,Sector 31 – 33 – Manufacturing,Subsector 336 – Transportation Equipment Manufacturing6,Motor Vehicle Electrical and Electronic Equipment Manufacturing,,1000.0
+33.0,336330,Sector 31 – 33 – Manufacturing,Subsector 336 – Transportation Equipment Manufacturing6,Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing,,1000.0
+33.0,336340,Sector 31 – 33 – Manufacturing,Subsector 336 – Transportation Equipment Manufacturing6,Motor Vehicle Brake System Manufacturing,,1250.0
+33.0,336350,Sector 31 – 33 – Manufacturing,Subsector 336 – Transportation Equipment Manufacturing6,Motor Vehicle Transmission and Power Train Parts Manufacturing,,1500.0
+33.0,336360,Sector 31 – 33 – Manufacturing,Subsector 336 – Transportation Equipment Manufacturing6,Motor Vehicle Seating and Interior Trim Manufacturing,,1500.0
+33.0,336370,Sector 31 – 33 – Manufacturing,Subsector 336 – Transportation Equipment Manufacturing6,Motor Vehicle Metal Stamping  ,,1000.0
+33.0,336390,Sector 31 – 33 – Manufacturing,Subsector 336 – Transportation Equipment Manufacturing6,Other Motor Vehicle Parts Manufacturing,,1000.0
+33.0,336411,Sector 31 – 33 – Manufacturing,Subsector 336 – Transportation Equipment Manufacturing6,Aircraft Manufacturing,,1500.0
+33.0,336412,Sector 31 – 33 – Manufacturing,Subsector 336 – Transportation Equipment Manufacturing6,Aircraft Engine and Engine Parts Manufacturing,,1500.0
+33.0,336413,Sector 31 – 33 – Manufacturing,Subsector 336 – Transportation Equipment Manufacturing6,Other Aircraft Part and Auxiliary Equipment Manufacturing7   ,,1250.0
+33.0,336414,Sector 31 – 33 – Manufacturing,Subsector 336 – Transportation Equipment Manufacturing6,Guided Missile and Space Vehicle Manufacturing,,1250.0
+33.0,336415,Sector 31 – 33 – Manufacturing,Subsector 336 – Transportation Equipment Manufacturing6,Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing,,1250.0
+33.0,336419,Sector 31 – 33 – Manufacturing,Subsector 336 – Transportation Equipment Manufacturing6,Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing,,1000.0
+33.0,336510,Sector 31 – 33 – Manufacturing,Subsector 336 – Transportation Equipment Manufacturing6,Railroad Rolling Stock Manufacturing  ,,1500.0
+33.0,336611,Sector 31 – 33 – Manufacturing,Subsector 336 – Transportation Equipment Manufacturing6,Ship Building and Repairing,,1250.0
+33.0,336612,Sector 31 – 33 – Manufacturing,Subsector 336 – Transportation Equipment Manufacturing6,Boat Building,,1000.0
+33.0,336991,Sector 31 – 33 – Manufacturing,Subsector 336 – Transportation Equipment Manufacturing6,"Motorcycle, Bicycle and Parts Manufacturing",,1000.0
+33.0,336992,Sector 31 – 33 – Manufacturing,Subsector 336 – Transportation Equipment Manufacturing6,"Military Armored Vehicle, Tank and Tank Component Manufacturing",,1500.0
+33.0,336999,Sector 31 – 33 – Manufacturing,Subsector 336 – Transportation Equipment Manufacturing6,All Other Transportation Equipment Manufacturing  ,,1000.0
+33.0,337110,Sector 31 – 33 – Manufacturing,Subsector 337 – Furniture and Related Product Manufacturing,Wood Kitchen Cabinet and Counter Top Manufacturing,,750.0
+33.0,337121,Sector 31 – 33 – Manufacturing,Subsector 337 – Furniture and Related Product Manufacturing,Upholstered Household Furniture Manufacturing,,1000.0
+33.0,337122,Sector 31 – 33 – Manufacturing,Subsector 337 – Furniture and Related Product Manufacturing,Nonupholstered Wood Household Furniture Manufacturing,,750.0
+33.0,337124,Sector 31 – 33 – Manufacturing,Subsector 337 – Furniture and Related Product Manufacturing,Metal Household Furniture Manufacturing,,750.0
+33.0,337125,Sector 31 – 33 – Manufacturing,Subsector 337 – Furniture and Related Product Manufacturing,Household Furniture (except Wood and Metal) Manufacturing,,750.0
+33.0,337127,Sector 31 – 33 – Manufacturing,Subsector 337 – Furniture and Related Product Manufacturing,Institutional Furniture Manufacturing,,500.0
+33.0,337211,Sector 31 – 33 – Manufacturing,Subsector 337 – Furniture and Related Product Manufacturing,Wood Office Furniture Manufacturing,,1000.0
+33.0,337212,Sector 31 – 33 – Manufacturing,Subsector 337 – Furniture and Related Product Manufacturing,Custom Architectural Woodwork and Millwork Manufacturing,,500.0
+33.0,337214,Sector 31 – 33 – Manufacturing,Subsector 337 – Furniture and Related Product Manufacturing,Office Furniture (Except Wood) Manufacturing,,1000.0
+33.0,337215,Sector 31 – 33 – Manufacturing,Subsector 337 – Furniture and Related Product Manufacturing,"Showcase, Partition, Shelving, and Locker Manufacturing",,500.0
+33.0,337910,Sector 31 – 33 – Manufacturing,Subsector 337 – Furniture and Related Product Manufacturing,Mattress Manufacturing,,1000.0
+33.0,337920,Sector 31 – 33 – Manufacturing,Subsector 337 – Furniture and Related Product Manufacturing,Blind and Shade Manufacturing,,1000.0
+33.0,339112,Sector 31 – 33 – Manufacturing,Subsector 339 – Miscellaneous Manufacturing,Surgical and Medical Instrument Manufacturing,,1000.0
+33.0,339113,Sector 31 – 33 – Manufacturing,Subsector 339 – Miscellaneous Manufacturing,Surgical Appliance and Supplies Manufacturing,,750.0
+33.0,339114,Sector 31 – 33 – Manufacturing,Subsector 339 – Miscellaneous Manufacturing,Dental Equipment and Supplies Manufacturing,,750.0
+33.0,339115,Sector 31 – 33 – Manufacturing,Subsector 339 – Miscellaneous Manufacturing,Ophthalmic Goods Manufacturing,,1000.0
+33.0,339116,Sector 31 – 33 – Manufacturing,Subsector 339 – Miscellaneous Manufacturing,Dental Laboratories,,500.0
+33.0,339910,Sector 31 – 33 – Manufacturing,Subsector 339 – Miscellaneous Manufacturing,Jewelry and Silverware Manufacturing,,500.0
+33.0,339920,Sector 31 – 33 – Manufacturing,Subsector 339 – Miscellaneous Manufacturing,Sporting and Athletic Goods Manufacturing,,750.0
+33.0,339930,Sector 31 – 33 – Manufacturing,Subsector 339 – Miscellaneous Manufacturing,"Doll, Toy, and Game Manufacturing",,500.0
+33.0,339940,Sector 31 – 33 – Manufacturing,Subsector 339 – Miscellaneous Manufacturing,Office Supplies (except Paper) Manufacturing,,750.0
+33.0,339950,Sector 31 – 33 – Manufacturing,Subsector 339 – Miscellaneous Manufacturing,Sign Manufacturing,,500.0
+33.0,339991,Sector 31 – 33 – Manufacturing,Subsector 339 – Miscellaneous Manufacturing,"Gasket, Packing, and Sealing Device Manufacturing  ",,500.0
+33.0,339992,Sector 31 – 33 – Manufacturing,Subsector 339 – Miscellaneous Manufacturing,Musical Instrument Manufacturing,,1000.0
+33.0,339993,Sector 31 – 33 – Manufacturing,Subsector 339 – Miscellaneous Manufacturing,"Fastener, Button, Needle and Pin Manufacturing",,750.0
+33.0,339994,Sector 31 – 33 – Manufacturing,Subsector 339 – Miscellaneous Manufacturing,"Broom, Brush and Mop Manufacturing",,500.0
+33.0,339995,Sector 31 – 33 – Manufacturing,Subsector 339 – Miscellaneous Manufacturing,Burial Casket Manufacturing,,1000.0
+33.0,339999,Sector 31 – 33 – Manufacturing,Subsector 339 – Miscellaneous Manufacturing,All Other Miscellaneous Manufacturing,,500.0
+42.0,423110,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods",Automobile and Other Motor Vehicle Merchant Wholesalers,,250.0
+42.0,423120,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods",Motor Vehicle Supplies and New Parts Merchant Wholesalers,,200.0
+42.0,423130,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods",Tire and Tube Merchant Wholesalers,,200.0
+42.0,423140,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods",Motor Vehicle Parts (Used) Merchant Wholesalers,,100.0
+42.0,423210,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods",Furniture Merchant Wholesalers,,100.0
+42.0,423220,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods",Home Furnishing Merchant Wholesalers,,100.0
+42.0,423310,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods","Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers",,150.0
+42.0,423320,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods","Brick, Stone, and Related Construction Material Merchant Wholesalers",,150.0
+42.0,423330,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods","Roofing, Siding, and Insulation Material Merchant Wholesalers",,200.0
+42.0,423390,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods",Other Construction Material Merchant Wholesalers,,100.0
+42.0,423410,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods",Photographic Equipment and Supplies Merchant Wholesalers,,200.0
+42.0,423420,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods",Office Equipment Merchant Wholesalers,,200.0
+42.0,423430,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods",Computer and Computer Peripheral Equipment and Software Merchant Wholesalers,,250.0
+42.0,423440,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods",Other Commercial Equipment Merchant Wholesalers,,100.0
+42.0,423450,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods","Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers",,200.0
+42.0,423460,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods",Ophthalmic Goods Merchant Wholesalers,,150.0
+42.0,423490,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods",Other Professional Equipment and Supplies Merchant Wholesalers,,150.0
+42.0,423510,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods",Metal Service Centers and Other Metal Merchant Wholesalers,,200.0
+42.0,423520,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods",Coal and Other Mineral and Ore Merchant Wholesalers,,100.0
+42.0,423610,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods","Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers",,200.0
+42.0,423620,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods","Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers",,200.0
+42.0,423690,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods",Other Electronic Parts and Equipment Merchant Wholesalers,,250.0
+42.0,423710,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods",Hardware Merchant Wholesalers,,150.0
+42.0,423720,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods",Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers,,200.0
+42.0,423730,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods",Warm Air Heating and Air‑Conditioning Equipment and Supplies Merchant Wholesalers,,150.0
+42.0,423740,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods",Refrigeration Equipment and Supplies Merchant Wholesalers,,100.0
+42.0,423810,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods",Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers,,250.0
+42.0,423820,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods",Farm and Garden Machinery and Equipment Merchant Wholesalers,,100.0
+42.0,423830,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods",Industrial Machinery and Equipment Merchant Wholesalers,,100.0
+42.0,423840,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods",Industrial Supplies Merchant Wholesalers,,100.0
+42.0,423850,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods",Service Establishment Equipment and Supplies Merchant Wholesalers,,100.0
+42.0,423860,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods",Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers,,150.0
+42.0,423910,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods",Sporting and Recreational Goods and Supplies Merchant Wholesalers,,100.0
+42.0,423920,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods",Toy and Hobby Goods and Supplies Merchant Wholesalers,,150.0
+42.0,423930,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods",Recyclable Material Merchant Wholesalers,,100.0
+42.0,423940,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods","Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers",,100.0
+42.0,423990,Sector 42 – Wholesale Trade,"Subsector 423 –  Merchant Wholesalers, Durable Goods",Other Miscellaneous Durable Goods Merchant Wholesalers,,100.0
+42.0,424110,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods",Printing and Writing Paper Merchant Wholesalers,,200.0
+42.0,424120,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods",Stationary and Office Supplies Merchant Wholesalers,,150.0
+42.0,424130,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods",Industrial and Personal Service Paper Merchant Wholesalers,,150.0
+42.0,424210,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods",Drugs and Druggists’ Sundries Merchant Wholesalers,,250.0
+42.0,424310,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods","Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers",,100.0
+42.0,424320,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods",Men’s and Boys’ Clothing and Furnishings Merchant Wholesalers,,150.0
+42.0,424330,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods","Women’s, Children’s, and Infants’ Clothing and Accessories Merchant Wholesalers",,100.0
+42.0,424340,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods",Footwear Merchant Wholesalers,,200.0
+42.0,424410,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods",General Line Grocery Merchant Wholesalers,,250.0
+42.0,424420,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods",Packaged Frozen Food Merchant Wholesalers,,200.0
+42.0,424430,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods",Dairy Product (except Dried or Canned) Merchant Wholesalers,,200.0
+42.0,424440,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods",Poultry and Poultry Product Merchant Wholesalers,,150.0
+42.0,424450,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods",Confectionery Merchant Wholesalers,,200.0
+42.0,424460,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods",Fish and Seafood Merchant Wholesalers,,100.0
+42.0,424470,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods",Meat and Meat Product Merchant Wholesalers,,150.0
+42.0,424480,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods",Fresh Fruit and Vegetable Merchant Wholesalers,,100.0
+42.0,424490,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods",Other Grocery and Related Products Merchant Wholesalers,,250.0
+42.0,424510,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods",Grain and Field Bean Merchant Wholesalers,,200.0
+42.0,424520,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods",Livestock Merchant Wholesalers,,100.0
+42.0,424590,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods",Other Farm Product Raw Material Merchant Wholesalers,,100.0
+42.0,424610,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods",Plastics Materials and Basic Forms and Shapes Merchant Wholesalers,,150.0
+42.0,424690,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods",Other Chemical and Allied Products Merchant Wholesalers,,150.0
+42.0,424710,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods",Petroleum Bulk Stations and Terminals,,200.0
+42.0,424720,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods",Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals),,200.0
+42.0,424810,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods",Beer and Ale Merchant Wholesalers,,200.0
+42.0,424820,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods",Wine and Distilled Alcoholic Beverage Merchant Wholesalers,,250.0
+42.0,424910,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods",Farm Supplies Merchant Wholesalers,,200.0
+42.0,424920,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods","Book, Periodical, and Newspaper Merchant Wholesalers",,200.0
+42.0,424930,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods","Flower, Nursery Stock, and Florists’ Supplies Merchant Wholesalers",,100.0
+42.0,424940,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods",Tobacco and Tobacco Product Merchant Wholesalers,,250.0
+42.0,424950,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods","Paint, Varnish, and Supplies Merchant Wholesalers",,150.0
+42.0,424990,Sector 42 – Wholesale Trade,"Subsector 424 – Merchant Wholesalers, Nondurable Goods",Other Miscellaneous Nondurable Goods Merchant Wholesalers,,100.0
+42.0,425110,Sector 42 – Wholesale Trade,Subsector 425 – Wholesale Electronic Markets and Agents and Brokers,Business to Business Electronic Markets,,100.0
+42.0,425120,Sector 42 – Wholesale Trade,Subsector 425 – Wholesale Electronic Markets and Agents and Brokers,Wholesale Trade Agents and Brokers,,100.0
+44.0,441110,Sector 44 - 45 – Retail Trade,Subsector 441 – Motor Vehicle and Parts Dealers,New Car Dealers,,200.0
+44.0,441120,Sector 44 - 45 – Retail Trade,Subsector 441 – Motor Vehicle and Parts Dealers,Used Car Dealers,27,
+44.0,441210,Sector 44 - 45 – Retail Trade,Subsector 441 – Motor Vehicle and Parts Dealers,Recreational Vehicle Dealers  ,35,
+44.0,441222,Sector 44 - 45 – Retail Trade,Subsector 441 – Motor Vehicle and Parts Dealers,Boat Dealers,35,
+44.0,441228,Sector 44 - 45 – Retail Trade,Subsector 441 – Motor Vehicle and Parts Dealers,"Motorcycle, ATV, and All Other Motor Vehicle Dealers",35,
+44.0,441310,Sector 44 - 45 – Retail Trade,Subsector 441 – Motor Vehicle and Parts Dealers,Automotive Parts and Accessories Stores,16.5,
+44.0,441320,Sector 44 - 45 – Retail Trade,Subsector 441 – Motor Vehicle and Parts Dealers,Tire Dealers,16.5,
+44.0,442110,Sector 44 - 45 – Retail Trade,Subsector 442 – Furniture and Home Furnishings Stores,Furniture Stores,22,
+44.0,442210,Sector 44 - 45 – Retail Trade,Subsector 442 – Furniture and Home Furnishings Stores,Floor Covering Stores,8,
+44.0,442291,Sector 44 - 45 – Retail Trade,Subsector 442 – Furniture and Home Furnishings Stores,Window Treatment Stores,8,
+44.0,442299,Sector 44 - 45 – Retail Trade,Subsector 442 – Furniture and Home Furnishings Stores,All Other Home Furnishings Stores,22,
+44.0,443141,Sector 44 - 45 – Retail Trade,Subsector 443 – Electronics and Appliance Stores,Household Appliance Stores,12,
+44.0,443142,Sector 44 - 45 – Retail Trade,Subsector 443 – Electronics and Appliance Stores,Electronics Stores,35,
+44.0,444110,Sector 44 - 45 – Retail Trade,Subsector 444 – Building Material and Garden Equipment and Supplies Dealers,Home Centers,41.5,
+44.0,444120,Sector 44 - 45 – Retail Trade,Subsector 444 – Building Material and Garden Equipment and Supplies Dealers,Paint and Wallpaper Stores,30,
+44.0,444130,Sector 44 - 45 – Retail Trade,Subsector 444 – Building Material and Garden Equipment and Supplies Dealers,Hardware Stores,8,
+44.0,444190,Sector 44 - 45 – Retail Trade,Subsector 444 – Building Material and Garden Equipment and Supplies Dealers,Other Building Material Dealers,22,
+44.0,444210,Sector 44 - 45 – Retail Trade,Subsector 444 – Building Material and Garden Equipment and Supplies Dealers,Outdoor Power Equipment Stores,8,
+44.0,444220,Sector 44 - 45 – Retail Trade,Subsector 444 – Building Material and Garden Equipment and Supplies Dealers,Nursery and Garden Centers,12,
+44.0,445110,Sector 44 - 45 – Retail Trade,Subsector 445 – Food and Beverage Stores,Supermarkets and Other Grocery (except Convenience) Stores,35,
+44.0,445120,Sector 44 - 45 – Retail Trade,Subsector 445 – Food and Beverage Stores,Convenience Stores,32,
+44.0,445210,Sector 44 - 45 – Retail Trade,Subsector 445 – Food and Beverage Stores,Meat Markets,8,
+44.0,445220,Sector 44 - 45 – Retail Trade,Subsector 445 – Food and Beverage Stores,Fish and Seafood Markets,8,
+44.0,445230,Sector 44 - 45 – Retail Trade,Subsector 445 – Food and Beverage Stores,Fruit and Vegetable Markets,8,
+44.0,445291,Sector 44 - 45 – Retail Trade,Subsector 445 – Food and Beverage Stores,Baked Goods Stores,8,
+44.0,445292,Sector 44 - 45 – Retail Trade,Subsector 445 – Food and Beverage Stores,Confectionery and Nut Stores,8,
+44.0,445299,Sector 44 - 45 – Retail Trade,Subsector 445 – Food and Beverage Stores,All Other Specialty Food Stores,8,
+44.0,445310,Sector 44 - 45 – Retail Trade,Subsector 445 – Food and Beverage Stores,"Beer, Wine and Liquor Stores",8,
+44.0,446110,Sector 44 - 45 – Retail Trade,Subsector 446 – Health and Personal Care Stores,Pharmacies and Drug Stores,30,
+44.0,446120,Sector 44 - 45 – Retail Trade,Subsector 446 – Health and Personal Care Stores,"Cosmetics, Beauty Supplies and Perfume Stores",30,
+44.0,446130,Sector 44 - 45 – Retail Trade,Subsector 446 – Health and Personal Care Stores,Optical Goods Stores,22,
+44.0,446191,Sector 44 - 45 – Retail Trade,Subsector 446 – Health and Personal Care Stores,Food (Health) Supplement Stores,16.5,
+44.0,446199,Sector 44 - 45 – Retail Trade,Subsector 446 – Health and Personal Care Stores,All Other Health and Personal Care Stores,8,
+44.0,447110,Sector 44 - 45 – Retail Trade,Subsector 447 – Gasoline Stations,Gasoline Stations with Convenience Stores,32,
+44.0,447190,Sector 44 - 45 – Retail Trade,Subsector 447 – Gasoline Stations,Other Gasoline Stations,16.5,
+44.0,448110,Sector 44 - 45 – Retail Trade,Subsector 448 – Clothing and Clothing Accessories Stores,Men’s Clothing Stores,12,
+44.0,448120,Sector 44 - 45 – Retail Trade,Subsector 448 – Clothing and Clothing Accessories Stores,Women’s Clothing Stores,30,
+44.0,448130,Sector 44 - 45 – Retail Trade,Subsector 448 – Clothing and Clothing Accessories Stores,Children’s and Infants’ Clothing Stores,35,
+44.0,448140,Sector 44 - 45 – Retail Trade,Subsector 448 – Clothing and Clothing Accessories Stores,Family Clothing Stores,41.5,
+44.0,448150,Sector 44 - 45 – Retail Trade,Subsector 448 – Clothing and Clothing Accessories Stores,Clothing Accessories Stores,16.5,
+44.0,448190,Sector 44 - 45 – Retail Trade,Subsector 448 – Clothing and Clothing Accessories Stores,Other Clothing Stores,22,
+44.0,448210,Sector 44 - 45 – Retail Trade,Subsector 448 – Clothing and Clothing Accessories Stores,Shoe Stores,30,
+44.0,448310,Sector 44 - 45 – Retail Trade,Subsector 448 – Clothing and Clothing Accessories Stores,Jewelry Stores,16.5,
+44.0,448320,Sector 44 - 45 – Retail Trade,Subsector 448 – Clothing and Clothing Accessories Stores,Luggage and Leather Goods Stores,30,
+45.0,451110,Sector 44 - 45 – Retail Trade,"Subsector 451 – Sporting Good, Hobby, Book and Music Stores",Sporting Goods Stores,16.5,
+45.0,451120,Sector 44 - 45 – Retail Trade,"Subsector 451 – Sporting Good, Hobby, Book and Music Stores","Hobby, Toy and Game Stores",30,
+45.0,451130,Sector 44 - 45 – Retail Trade,"Subsector 451 – Sporting Good, Hobby, Book and Music Stores","Sewing, Needlework and Piece Goods Stores",30,
+45.0,451140,Sector 44 - 45 – Retail Trade,"Subsector 451 – Sporting Good, Hobby, Book and Music Stores",Musical Instrument and Supplies Stores,12,
+45.0,451211,Sector 44 - 45 – Retail Trade,"Subsector 451 – Sporting Good, Hobby, Book and Music Stores",Book Stores,30,
+45.0,451212,Sector 44 - 45 – Retail Trade,"Subsector 451 – Sporting Good, Hobby, Book and Music Stores",News Dealers and Newsstands,8,
+45.0,452210,Sector 44 - 45 – Retail Trade,Subsector 452 – General Merchandise Stores,Department Stores,35,
+45.0,452311,Sector 44 - 45 – Retail Trade,Subsector 452 – General Merchandise Stores,Warehouse Clubs and Supercenters,32,
+45.0,452319,Sector 44 - 45 – Retail Trade,Subsector 452 – General Merchandise Stores,All Other General Merchandise Stores,35,
+45.0,453110,Sector 44 - 45 – Retail Trade,Subsector 453 – Miscellaneous Store Retailers,Florists,8,
+45.0,453210,Sector 44 - 45 – Retail Trade,Subsector 453 – Miscellaneous Store Retailers,Office Supplies and Stationery Stores,35,
+45.0,453220,Sector 44 - 45 – Retail Trade,Subsector 453 – Miscellaneous Store Retailers,"Gift, Novelty and Souvenir Stores",8,
+45.0,453310,Sector 44 - 45 – Retail Trade,Subsector 453 – Miscellaneous Store Retailers,Used Merchandise Stores,8,
+45.0,453910,Sector 44 - 45 – Retail Trade,Subsector 453 – Miscellaneous Store Retailers,Pet and Pet Supplies Stores,22,
+45.0,453920,Sector 44 - 45 – Retail Trade,Subsector 453 – Miscellaneous Store Retailers,Art Dealers,8,
+45.0,453930,Sector 44 - 45 – Retail Trade,Subsector 453 – Miscellaneous Store Retailers,Manufactured (Mobile) Home Dealers,16.5,
+45.0,453991,Sector 44 - 45 – Retail Trade,Subsector 453 – Miscellaneous Store Retailers,Tobacco Stores,8,
+45.0,453998,Sector 44 - 45 – Retail Trade,Subsector 453 – Miscellaneous Store Retailers,All Other Miscellaneous Store Retailers (except Tobacco Stores),8,
+45.0,454110,Sector 44 - 45 – Retail Trade,Subsector 454 – Nonstore Retailers,Electronic Shopping and Mail-Order Houses,41.5,
+45.0,454210,Sector 44 - 45 – Retail Trade,Subsector 454 – Nonstore Retailers,Vending Machine Operators,12,
+45.0,454310,Sector 44 - 45 – Retail Trade,Subsector 454 – Nonstore Retailers,Fuel Dealers,,100.0
+45.0,454390,Sector 44 - 45 – Retail Trade,Subsector 454 – Nonstore Retailers,Other Direct Selling Establishments,8,
+48.0,481111,Sector 48 - 49 – Transportation and Warehousing,Subsector 481 – Air Transportation,Scheduled Passenger Air Transportation,,1500.0
+48.0,481112,Sector 48 - 49 – Transportation and Warehousing,Subsector 481 – Air Transportation,Scheduled Freight Air Transportation,,1500.0
+48.0,481211,Sector 48 - 49 – Transportation and Warehousing,Subsector 481 – Air Transportation,Nonscheduled Chartered Passenger Air Transportation,,1500.0
+48.0,481212,Sector 48 - 49 – Transportation and Warehousing,Subsector 481 – Air Transportation,Nonscheduled Chartered Freight Air Transportation  ,,1500.0
+48.0,481219,Sector 48 - 49 – Transportation and Warehousing,Subsector 481 – Air Transportation,Other Nonscheduled Air Transportation,16.5,
+48.0,482111,Sector 48 - 49 – Transportation and Warehousing,Subsector 482 – Rail Transportation,Line‑Haul Railroads,,1500.0
+48.0,482112,Sector 48 - 49 – Transportation and Warehousing,Subsector 482 – Rail Transportation,Short Line Railroads,,1500.0
+48.0,483111,Sector 48 - 49 – Transportation and Warehousing,Subsector 483 – Water Transportation,Deep Sea Freight Transportation,,500.0
+48.0,483112,Sector 48 - 49 – Transportation and Warehousing,Subsector 483 – Water Transportation,Deep Sea Passenger Transportation,,1500.0
+48.0,483113,Sector 48 - 49 – Transportation and Warehousing,Subsector 483 – Water Transportation,Coastal and Great Lakes Freight Transportation,,750.0
+48.0,483114,Sector 48 - 49 – Transportation and Warehousing,Subsector 483 – Water Transportation,Coastal and Great Lakes Passenger Transportation,,500.0
+48.0,483211,Sector 48 - 49 – Transportation and Warehousing,Subsector 483 – Water Transportation,Inland Water Freight Transportation,,750.0
+48.0,483212,Sector 48 - 49 – Transportation and Warehousing,Subsector 483 – Water Transportation,Inland Water Passenger Transportation,,500.0
+48.0,484110,Sector 48 - 49 – Transportation and Warehousing,Subsector 484 – Truck Transportation,"General Freight Trucking, Local",30,
+48.0,484121,Sector 48 - 49 – Transportation and Warehousing,Subsector 484 – Truck Transportation,"General Freight Trucking, Long‑Distance, Truckload  ",30,
+48.0,484122,Sector 48 - 49 – Transportation and Warehousing,Subsector 484 – Truck Transportation,"General Freight Trucking, Long‑Distance, Less Than Truckload",30,
+48.0,484210,Sector 48 - 49 – Transportation and Warehousing,Subsector 484 – Truck Transportation,Used Household and Office Goods Moving,30,
+48.0,484220,Sector 48 - 49 – Transportation and Warehousing,Subsector 484 – Truck Transportation,"Specialized Freight (except Used Goods) Trucking, Local",30,
+48.0,484230,Sector 48 - 49 – Transportation and Warehousing,Subsector 484 – Truck Transportation,"Specialized Freight (except Used Goods) Trucking, Long‑Distance",30,
+48.0,485111,Sector 48 - 49 – Transportation and Warehousing,Subsector 485 – Transit and Ground Passenger Transportation,Mixed Mode Transit Systems,16.5,
+48.0,485112,Sector 48 - 49 – Transportation and Warehousing,Subsector 485 – Transit and Ground Passenger Transportation,Commuter Rail Systems,16.5,
+48.0,485113,Sector 48 - 49 – Transportation and Warehousing,Subsector 485 – Transit and Ground Passenger Transportation,Bus and Other Motor Vehicle Transit Systems,16.5,
+48.0,485119,Sector 48 - 49 – Transportation and Warehousing,Subsector 485 – Transit and Ground Passenger Transportation,Other Urban Transit Systems,16.5,
+48.0,485210,Sector 48 - 49 – Transportation and Warehousing,Subsector 485 – Transit and Ground Passenger Transportation,Interurban and Rural Bus Transportation,16.5,
+48.0,485310,Sector 48 - 49 – Transportation and Warehousing,Subsector 485 – Transit and Ground Passenger Transportation,Taxi Service,16.5,
+48.0,485320,Sector 48 - 49 – Transportation and Warehousing,Subsector 485 – Transit and Ground Passenger Transportation,Limousine Service,16.5,
+48.0,485410,Sector 48 - 49 – Transportation and Warehousing,Subsector 485 – Transit and Ground Passenger Transportation,School and Employee Bus Transportation,16.5,
+48.0,485510,Sector 48 - 49 – Transportation and Warehousing,Subsector 485 – Transit and Ground Passenger Transportation,Charter Bus Industry,16.5,
+48.0,485991,Sector 48 - 49 – Transportation and Warehousing,Subsector 485 – Transit and Ground Passenger Transportation,Special Needs Transportation,16.5,
+48.0,485999,Sector 48 - 49 – Transportation and Warehousing,Subsector 485 – Transit and Ground Passenger Transportation,All Other Transit and Ground Passenger Transportation,16.5,
+48.0,486110,Sector 48 - 49 – Transportation and Warehousing,Subsector 486 – Pipeline Transportation,Pipeline Transportation of Crude Oil,,1500.0
+48.0,486210,Sector 48 - 49 – Transportation and Warehousing,Subsector 486 – Pipeline Transportation,Pipeline Transportation of Natural Gas,30,
+48.0,486910,Sector 48 - 49 – Transportation and Warehousing,Subsector 486 – Pipeline Transportation,Pipeline Transportation of Refined Petroleum Products,,1500.0
+48.0,486990,Sector 48 - 49 – Transportation and Warehousing,Subsector 486 – Pipeline Transportation,All Other Pipeline Transportation,40.5,
+48.0,487110,Sector 48 - 49 – Transportation and Warehousing,Subsector 487 – Scenic and Sightseeing Transportation,"Scenic and Sightseeing Transportation, Land",8,
+48.0,487210,Sector 48 - 49 – Transportation and Warehousing,Subsector 487 – Scenic and Sightseeing Transportation,"Scenic and Sightseeing Transportation, Water",8,
+48.0,487990,Sector 48 - 49 – Transportation and Warehousing,Subsector 487 – Scenic and Sightseeing Transportation,"Scenic and Sightseeing Transportation, Other",8,
+48.0,488111,Sector 48 - 49 – Transportation and Warehousing,Subsector 488 – Support Activities for Transportation,Air Traffic Control,35,
+48.0,488119,Sector 48 - 49 – Transportation and Warehousing,Subsector 488 – Support Activities for Transportation,Other Airport Operations,35,
+48.0,488190,Sector 48 - 49 – Transportation and Warehousing,Subsector 488 – Support Activities for Transportation,Other Support Activities for Air Transportation,35,
+48.0,488210,Sector 48 - 49 – Transportation and Warehousing,Subsector 488 – Support Activities for Transportation,Support Activities for Rail Transportation,16.5,
+48.0,488310,Sector 48 - 49 – Transportation and Warehousing,Subsector 488 – Support Activities for Transportation,Port and Harbor Operations,41.5,
+48.0,488320,Sector 48 - 49 – Transportation and Warehousing,Subsector 488 – Support Activities for Transportation,Marine Cargo Handling,41.5,
+48.0,488330,Sector 48 - 49 – Transportation and Warehousing,Subsector 488 – Support Activities for Transportation,Navigational Services to Shipping,41.5,
+48.0,488390,Sector 48 - 49 – Transportation and Warehousing,Subsector 488 – Support Activities for Transportation,Other Support Activities for Water Transportation,41.5,
+48.0,488410,Sector 48 - 49 – Transportation and Warehousing,Subsector 488 – Support Activities for Transportation,Motor Vehicle Towing,8,
+48.0,488490,Sector 48 - 49 – Transportation and Warehousing,Subsector 488 – Support Activities for Transportation,Other Support Activities for Road Transportation,8,
+48.0,488510,Sector 48 - 49 – Transportation and Warehousing,Subsector 488 – Support Activities for Transportation,Freight Transportation Arrangement10,16.5,
+48.0,488510_Except,Sector 48 - 49 – Transportation and Warehousing,Subsector 488 – Support Activities for Transportation,Non‑Vessel Owning Common Carriers and Household Goods Forwarders,30,
+48.0,488991,Sector 48 - 49 – Transportation and Warehousing,Subsector 488 – Support Activities for Transportation,Packing and Crating,30,
+48.0,488999,Sector 48 - 49 – Transportation and Warehousing,Subsector 488 – Support Activities for Transportation,All Other Support Activities for Transportation,8,
+49.0,491110,Sector 48 - 49 – Transportation and Warehousing,Subsector 491 – Postal Service,Postal Service,8,
+49.0,492110,Sector 48 - 49 – Transportation and Warehousing,Subsector 492 – Couriers and Messengers,Couriers and Express Delivery Services,,1500.0
+49.0,492210,Sector 48 - 49 – Transportation and Warehousing,Subsector 492 – Couriers and Messengers,Local Messengers and Local Delivery,30,
+49.0,493110,Sector 48 - 49 – Transportation and Warehousing,Subsector 493 – Warehousing and Storage,General Warehousing and Storage,30,
+49.0,493120,Sector 48 - 49 – Transportation and Warehousing,Subsector 493 – Warehousing and Storage,Refrigerated Warehousing and Storage,30,
+49.0,493130,Sector 48 - 49 – Transportation and Warehousing,Subsector 493 – Warehousing and Storage,Farm Product Warehousing and Storage,30,
+49.0,493190,Sector 48 - 49 – Transportation and Warehousing,Subsector 493 – Warehousing and Storage,Other Warehousing and Storage,30,
+51.0,511110,Sector 51 – Information,Subsector 511 – Publishing Industries (except Internet),Newspaper Publishers,,1000.0
+51.0,511120,Sector 51 – Information,Subsector 511 – Publishing Industries (except Internet),Periodical Publishers,,1000.0
+51.0,511130,Sector 51 – Information,Subsector 511 – Publishing Industries (except Internet),Book Publishers,,1000.0
+51.0,511140,Sector 51 – Information,Subsector 511 – Publishing Industries (except Internet),Directory and Mailing List Publishers,,1250.0
+51.0,511191,Sector 51 – Information,Subsector 511 – Publishing Industries (except Internet),Greeting Card Publishers,,1500.0
+51.0,511199,Sector 51 – Information,Subsector 511 – Publishing Industries (except Internet),All Other Publishers,,500.0
+51.0,511210,Sector 51 – Information,Subsector 511 – Publishing Industries (except Internet),Software Publishers20,41.5,
+51.0,512110,Sector 51 – Information,Subsector 512 – Motion Picture and Sound Recording Industries,Motion Picture and Video Production,35,
+51.0,512120,Sector 51 – Information,Subsector 512 – Motion Picture and Sound Recording Industries,Motion Picture and Video Distribution,34.5,
+51.0,512131,Sector 51 – Information,Subsector 512 – Motion Picture and Sound Recording Industries,Motion Picture Theaters (except Drive‑Ins),41.5,
+51.0,512132,Sector 51 – Information,Subsector 512 – Motion Picture and Sound Recording Industries,Drive‑In Motion Picture Theaters,8,
+51.0,512191,Sector 51 – Information,Subsector 512 – Motion Picture and Sound Recording Industries,Teleproduction and Other Postproduction Services,34.5,
+51.0,512199,Sector 51 – Information,Subsector 512 – Motion Picture and Sound Recording Industries,Other Motion Picture and Video Industries,22,
+51.0,512230,Sector 51 – Information,Subsector 512 – Motion Picture and Sound Recording Industries,Music Publishers,,750.0
+51.0,512240,Sector 51 – Information,Subsector 512 – Motion Picture and Sound Recording Industries,Sound Recording Studios,8,
+51.0,512250,Sector 51 – Information,Subsector 512 – Motion Picture and Sound Recording Industries,Record Production and Distribution,,250.0
+51.0,512290,Sector 51 – Information,Subsector 512 – Motion Picture and Sound Recording Industries,Other Sound Recording Industries,12,
+51.0,515111,Sector 51 – Information,Subsector 515 – Broadcasting (except Internet),Radio Networks,35,
+51.0,515112,Sector 51 – Information,Subsector 515 – Broadcasting (except Internet),Radio Stations,41.5,
+51.0,515120,Sector 51 – Information,Subsector 515 – Broadcasting (except Internet),Television Broadcasting,41.5,
+51.0,515210,Sector 51 – Information,Subsector 515 – Broadcasting (except Internet),Cable and Other Subscription Programming,41.5,
+51.0,517311,Sector 51 – Information,Subsector 517 – Telecommunications,Wired Telecommunications Carriers,,1500.0
+51.0,517312,Sector 51 – Information,Subsector 517 – Telecommunications,Wireless Telecommunications Carriers (except Satellite),,1500.0
+51.0,517410,Sector 51 – Information,Subsector 517 – Telecommunications,Satellite Telecommunications,35,
+51.0,517911,Sector 51 – Information,Subsector 517 – Telecommunications,Telecommunications Resellers,,1500.0
+51.0,517919,Sector 51 – Information,Subsector 517 – Telecommunications,All Other Telecommunications,35,
+51.0,518210,Sector 51 – Information,"Subsector 518 –Data Processing, Hosting, and Related Services","Data Processing, Hosting, and Related Services",35,
+51.0,519110,Sector 51 – Information,Subsector 519 – Other Information Services,News Syndicates,30,
+51.0,519120,Sector 51 – Information,Subsector 519 – Other Information Services,Libraries and Archives,16.5,
+51.0,519130,Sector 51 – Information,Subsector 519 – Other Information Services,Internet Publishing and Broadcasting and Web Search Portals,,1000.0
+51.0,519190,Sector 51 – Information,Subsector 519 – Other Information Services,All Other Information Services,30,
+52.0,522110,Sector 52 – Finance and Insurance,Subsector 522 – Credit Intermediation and Related Activities,Commercial Banking8,$600 million in assets8,
+52.0,522120,Sector 52 – Finance and Insurance,Subsector 522 – Credit Intermediation and Related Activities,Savings Institutions8,$600 million in assets8,
+52.0,522130,Sector 52 – Finance and Insurance,Subsector 522 – Credit Intermediation and Related Activities,Credit Unions8,$600 million in assets8,
+52.0,522190,Sector 52 – Finance and Insurance,Subsector 522 – Credit Intermediation and Related Activities,Other Depository Credit Intermediation8,$600 million in assets8,
+52.0,522210,Sector 52 – Finance and Insurance,Subsector 522 – Credit Intermediation and Related Activities,Credit Card Issuing8,$600 million in assets8,
+52.0,522220,Sector 52 – Finance and Insurance,Subsector 522 – Credit Intermediation and Related Activities,Sales Financing,41.5,
+52.0,522291,Sector 52 – Finance and Insurance,Subsector 522 – Credit Intermediation and Related Activities,Consumer Lending,41.5,
+52.0,522292,Sector 52 – Finance and Insurance,Subsector 522 – Credit Intermediation and Related Activities,Real Estate Credit,41.5,
+52.0,522293,Sector 52 – Finance and Insurance,Subsector 522 – Credit Intermediation and Related Activities,International Trade Financing,41.5,
+52.0,522294,Sector 52 – Finance and Insurance,Subsector 522 – Credit Intermediation and Related Activities,Secondary Market Financing,41.5,
+52.0,522298,Sector 52 – Finance and Insurance,Subsector 522 – Credit Intermediation and Related Activities,All Other Nondepository Credit Intermediation,41.5,
+52.0,522310,Sector 52 – Finance and Insurance,Subsector 522 – Credit Intermediation and Related Activities,Mortgage and Nonmortgage Loan Brokers,8,
+52.0,522320,Sector 52 – Finance and Insurance,Subsector 522 – Credit Intermediation and Related Activities,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",41.5,
+52.0,522390,Sector 52 – Finance and Insurance,Subsector 522 – Credit Intermediation and Related Activities,Other Activities Related to Credit Intermediation,22,
+52.0,523110,Sector 52 – Finance and Insurance,Subsector 523 – Financial Investments and Related Activities,Investment Banking and Securities Dealing,41.5,
+52.0,523120,Sector 52 – Finance and Insurance,Subsector 523 – Financial Investments and Related Activities,Securities Brokerage,41.5,
+52.0,523130,Sector 52 – Finance and Insurance,Subsector 523 – Financial Investments and Related Activities,Commodity Contracts Dealing,41.5,
+52.0,523140,Sector 52 – Finance and Insurance,Subsector 523 – Financial Investments and Related Activities,Commodity Contracts Brokerage,41.5,
+52.0,523210,Sector 52 – Finance and Insurance,Subsector 523 – Financial Investments and Related Activities,Securities and Commodity Exchanges,41.5,
+52.0,523910,Sector 52 – Finance and Insurance,Subsector 523 – Financial Investments and Related Activities,Miscellaneous Intermediation,41.5,
+52.0,523920,Sector 52 – Finance and Insurance,Subsector 523 – Financial Investments and Related Activities,Portfolio Management,41.5,
+52.0,523930,Sector 52 – Finance and Insurance,Subsector 523 – Financial Investments and Related Activities,Investment Advice,41.5,
+52.0,523991,Sector 52 – Finance and Insurance,Subsector 523 – Financial Investments and Related Activities,"Trust, Fiduciary and Custody Activities",41.5,
+52.0,523999,Sector 52 – Finance and Insurance,Subsector 523 – Financial Investments and Related Activities,Miscellaneous Financial Investment Activities,41.5,
+52.0,524113,Sector 52 – Finance and Insurance,Subsector 524 – Insurance Carriers and Related Activities,Direct Life Insurance Carriers,41.5,
+52.0,524114,Sector 52 – Finance and Insurance,Subsector 524 – Insurance Carriers and Related Activities,Direct Health and Medical Insurance Carriers,41.5,
+52.0,524126,Sector 52 – Finance and Insurance,Subsector 524 – Insurance Carriers and Related Activities,Direct Property and Casualty Insurance Carriers,,1500.0
+52.0,524127,Sector 52 – Finance and Insurance,Subsector 524 – Insurance Carriers and Related Activities,Direct Title Insurance Carriers,41.5,
+52.0,524128,Sector 52 – Finance and Insurance,Subsector 524 – Insurance Carriers and Related Activities,"Other Direct Insurance (except Life, Health and Medical) Carriers",41.5,
+52.0,524130,Sector 52 – Finance and Insurance,Subsector 524 – Insurance Carriers and Related Activities,Reinsurance Carriers,41.5,
+52.0,524210,Sector 52 – Finance and Insurance,Subsector 524 – Insurance Carriers and Related Activities,Insurance Agencies and Brokerages,8,
+52.0,524291,Sector 52 – Finance and Insurance,Subsector 524 – Insurance Carriers and Related Activities,Claims Adjusting,22,
+52.0,524292,Sector 52 – Finance and Insurance,Subsector 524 – Insurance Carriers and Related Activities,Third Party Administration of Insurance and Pension Funds,35,
+52.0,524298,Sector 52 – Finance and Insurance,Subsector 524 – Insurance Carriers and Related Activities,All Other Insurance Related Activities,16.5,
+52.0,525110,Sector 52 – Finance and Insurance,"Subsector 525 – Funds, Trusts and Other Financial Vehicles",Pension Funds,35,
+52.0,525120,Sector 52 – Finance and Insurance,"Subsector 525 – Funds, Trusts and Other Financial Vehicles",Health and Welfare Funds,35,
+52.0,525190,Sector 52 – Finance and Insurance,"Subsector 525 – Funds, Trusts and Other Financial Vehicles",Other Insurance Funds,35,
+52.0,525910,Sector 52 – Finance and Insurance,"Subsector 525 – Funds, Trusts and Other Financial Vehicles",Open‑End Investment Funds,35,
+52.0,525920,Sector 52 – Finance and Insurance,"Subsector 525 – Funds, Trusts and Other Financial Vehicles","Trusts, Estates, and Agency Accounts",35,
+52.0,525990,Sector 52 – Finance and Insurance,"Subsector 525 – Funds, Trusts and Other Financial Vehicles",Other Financial Vehicles,35,
+53.0,531110,Sector 53 – Real Estate and Rental and Leasing,Subsector 531 – Real Estate,Lessors of Residential Buildings and Dwellings9,30,
+53.0,531120,Sector 53 – Real Estate and Rental and Leasing,Subsector 531 – Real Estate,Lessors of Nonresidential Buildings (except Miniwarehouses)9,30,
+53.0,531130,Sector 53 – Real Estate and Rental and Leasing,Subsector 531 – Real Estate,Lessors of Miniwarehouses and Self Storage Units9,30,
+53.0,531190,Sector 53 – Real Estate and Rental and Leasing,Subsector 531 – Real Estate,Lessors of Other Real Estate Property9,30,
+53.0,531210,Sector 53 – Real Estate and Rental and Leasing,Subsector 531 – Real Estate,Offices of Real Estate Agents and Brokers10,8,
+53.0,531311,Sector 53 – Real Estate and Rental and Leasing,Subsector 531 – Real Estate,Residential Property Managers,8,
+53.0,531312,Sector 53 – Real Estate and Rental and Leasing,Subsector 531 – Real Estate,Nonresidential Property Managers,8,
+53.0,531320,Sector 53 – Real Estate and Rental and Leasing,Subsector 531 – Real Estate,Offices of Real Estate Appraisers,8,
+53.0,531390,Sector 53 – Real Estate and Rental and Leasing,Subsector 531 – Real Estate,Other Activities Related to Real Estate,8,
+53.0,532111,Sector 53 – Real Estate and Rental and Leasing,Subsector 532 – Rental and Leasing Services,Passenger Car Rental,41.5,
+53.0,532112,Sector 53 – Real Estate and Rental and Leasing,Subsector 532 – Rental and Leasing Services,Passenger Car Leasing,41.5,
+53.0,532120,Sector 53 – Real Estate and Rental and Leasing,Subsector 532 – Rental and Leasing Services,"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing",41.5,
+53.0,532210,Sector 53 – Real Estate and Rental and Leasing,Subsector 532 – Rental and Leasing Services,Consumer Electronics and Appliances Rental,41.5,
+53.0,532281,Sector 53 – Real Estate and Rental and Leasing,Subsector 532 – Rental and Leasing Services,Formal Wear and Costume Rental,22,
+53.0,532282,Sector 53 – Real Estate and Rental and Leasing,Subsector 532 – Rental and Leasing Services,Video Tape and Disc Rental,30,
+53.0,532283,Sector 53 – Real Estate and Rental and Leasing,Subsector 532 – Rental and Leasing Services,Home Health Equipment Rental,35,
+53.0,532284,Sector 53 – Real Estate and Rental and Leasing,Subsector 532 – Rental and Leasing Services,Recreational Goods Rental,8,
+53.0,532289,Sector 53 – Real Estate and Rental and Leasing,Subsector 532 – Rental and Leasing Services,All Other Consumer Goods Rental,8,
+53.0,532310,Sector 53 – Real Estate and Rental and Leasing,Subsector 532 – Rental and Leasing Services,General Rental Centers,8,
+53.0,532411,Sector 53 – Real Estate and Rental and Leasing,Subsector 532 – Rental and Leasing Services,"Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing",35,
+53.0,532412,Sector 53 – Real Estate and Rental and Leasing,Subsector 532 – Rental and Leasing Services,"Construction, Mining and Forestry Machinery and Equipment Rental and Leasing",35,
+53.0,532420,Sector 53 – Real Estate and Rental and Leasing,Subsector 532 – Rental and Leasing Services,Office Machinery and Equipment Rental and Leasing,35,
+53.0,532490,Sector 53 – Real Estate and Rental and Leasing,Subsector 532 – Rental and Leasing Services,Other Commercial and Industrial Machinery and Equipment Rental and Leasing,35,
+53.0,533110,Sector 53 – Real Estate and Rental and Leasing,Subsector 533 – Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),41.5,
+54.0,541110,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Offices of Lawyers,12,
+54.0,541191,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Title Abstract and Settlement Offices,12,
+54.0,541199,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",All Other Legal Services,12,
+54.0,541211,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Offices of Certified Public Accountants,22,
+54.0,541213,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Tax Preparation Services,22,
+54.0,541214,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Payroll Services,22,
+54.0,541219,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Other Accounting Services,22,
+54.0,541310,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Architectural Services,8,
+54.0,541320,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Landscape Architectural Services,8,
+54.0,541330,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Engineering Services,16.5,
+54.0,541330_a_Except,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Military and Aerospace Equipment and Military Weapons,41.5,
+54.0,541330_b_Except,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Contracts and Subcontracts for Engineering Services Awarded Under the National Energy Policy Act of 1992,41.5,
+54.0,541330_c_Except,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Marine Engineering and Naval Architecture,41.5,
+54.0,541340,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Drafting Services,8,
+54.0,541350,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Building Inspection Services,8,
+54.0,541360,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Geophysical Surveying and Mapping Services,16.5,
+54.0,541370,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Surveying and Mapping (except Geophysical) Services,16.5,
+54.0,541380,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Testing Laboratories,16.5,
+54.0,541410,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Interior Design Services,8,
+54.0,541420,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Industrial Design Services,8,
+54.0,541430,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Graphic Design Services,8,
+54.0,541490,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Other Specialized Design Services,8,
+54.0,541511,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Custom Computer Programming Services,30,
+54.0,541512,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Computer Systems Design Services,30,
+54.0,541513,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Computer Facilities Management Services,30,
+54.0,541519,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Other Computer Related Services,30,
+54.0,541519_Except,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Information Technology Value Added Resellers18,,150.0
+54.0,541611,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Administrative Management and General Management Consulting Services,16.5,
+54.0,541612,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Human Resources Consulting Services,16.5,
+54.0,541613,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Marketing Consulting Services,16.5,
+54.0,541614,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services","Process, Physical Distribution and Logistics Consulting Services",16.5,
+54.0,541618,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Other Management Consulting Services,16.5,
+54.0,541620,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Environmental Consulting Services,16.5,
+54.0,541690,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Other Scientific and Technical Consulting Services  ,16.5,
+54.0,541713,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Research and Technology in Nanotechnology11,,1000.0
+54.0,541714,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Research and Technology in Biotechnology (except Nanobiotechnology)11,,1000.0
+54.0,541715,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services","Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology) 11",,1000.0
+54.0,541715_a_Except,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services","Aircraft, Aircraft Engine and Engine Parts11",,1500.0
+54.0,541715_b_Except,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Other Aircraft Parts and Auxiliary Equipment11,,1250.0
+54.0,541715_c_Except,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services","Guided Missiles and Space Vehicles, Their Propulsion Units and Propulsion Parts11",,1250.0
+54.0,541720,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Research and Development in the Social Sciences and Humanities,22,
+54.0,541810,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Advertising Agencies10,16.5,
+54.0,541820,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Public Relations Agencies,16.5,
+54.0,541830,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Media Buying Agencies,16.5,
+54.0,541840,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Media Representatives,16.5,
+54.0,541850,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Outdoor Advertising,16.5,
+54.0,541860,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Direct Mail Advertising,16.5,
+54.0,541870,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Advertising Material Distribution Services,16.5,
+54.0,541890,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Other Services Related to Advertising,16.5,
+54.0,541910,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Marketing Research and Public Opinion Polling,16.5,
+54.0,541921,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services","Photography Studios, Portrait",8,
+54.0,541922,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Commercial Photography,8,
+54.0,541930,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Translation and Interpretation Services,8,
+54.0,541940,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services",Veterinary Services,8,
+54.0,541990,"Sector 54 – Professional, Scientific and Technical Services","Subsector 541 – Professional, Scientific and Technical Services","All Other Professional, Scientific and Technical Services",16.5,
+55.0,551111,Sector 55 – Management of Companies and Enterprises,Subsector 551 – Management of Companies and Enterprises,Offices of Bank Holding Companies,22,
+55.0,551112,Sector 55 – Management of Companies and Enterprises,Subsector 551 – Management of Companies and Enterprises,Offices of Other Holding Companies,22,
+56.0,561110,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Office Administrative Services,8,
+56.0,561210,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Facilities Support Services12,41.5,
+56.0,561311,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Employment Placement Agencies,30,
+56.0,561312,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Executive Search Services,30,
+56.0,561320,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Temporary Help Services,30,
+56.0,561330,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Professional Employer Organizations,30,
+56.0,561410,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Document Preparation Services,16.5,
+56.0,561421,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Telephone Answering Services,16.5,
+56.0,561422,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Telemarketing Bureaus and Other contact Centers,16.5,
+56.0,561431,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Private Mail Centers,16.5,
+56.0,561439,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Other Business Service Centers (including Copy Shops),16.5,
+56.0,561440,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Collection Agencies,16.5,
+56.0,561450,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Credit Bureaus,16.5,
+56.0,561491,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Repossession Services,16.5,
+56.0,561492,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Court Reporting and Stenotype Services,16.5,
+56.0,561499,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,All Other Business Support Services,16.5,
+56.0,561510,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Travel Agencies10,22,
+56.0,561520,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Tour Operators10,22,
+56.0,561591,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Convention and Visitors Bureaus,22,
+56.0,561599,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,All Other Travel Arrangement and Reservation Services,22,
+56.0,561611,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Investigation Services,22,
+56.0,561612,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Security Guards and Patrol Services,22,
+56.0,561613,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Armored Car Services,22,
+56.0,561621,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Security Systems Services (except Locksmiths),22,
+56.0,561622,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Locksmiths,22,
+56.0,561710,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Exterminating and Pest Control Services,12,
+56.0,561720,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Janitorial Services,19.5,
+56.0,561730,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Landscaping Services,8,
+56.0,561740,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Carpet and Upholstery Cleaning Services,6,
+56.0,561790,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Other Services to Buildings and Dwellings  ,8,
+56.0,561910,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Packaging and Labeling Services,12,
+56.0,561920,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Convention and Trade Show Organizers10,12,
+56.0,561990,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,All Other Support Services,12,
+56.0,562111,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Solid Waste Collection,41.5,
+56.0,562112,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Hazardous Waste Collection,41.5,
+56.0,562119,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Other Waste Collection,41.5,
+56.0,562211,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Hazardous Waste Treatment and Disposal,41.5,
+56.0,562212,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Solid Waste Landfill,41.5,
+56.0,562213,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Solid Waste Combustors and Incinerators,41.5,
+56.0,562219,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Other Nonhazardous Waste Treatment and Disposal  ,41.5,
+56.0,562910,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Remediation Services,22,
+56.0,562910_Except,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Environmental Remediation Services14,,750.0
+56.0,562920,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Materials Recovery Facilities,22,
+56.0,562991,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,Septic Tank and Related Services,8,
+56.0,562998,"Sector 56 – Administrative and Support, Waste Management and Remediation Services",Subsector 561 – Administrative and Support Services,All Other Miscellaneous Waste Management Services,8,
+61.0,611110,Sector 61 – Educational Services,Subsector 611 – Educational Services,Elementary and Secondary Schools,12,
+61.0,611210,Sector 61 – Educational Services,Subsector 611 – Educational Services,Junior Colleges,22,
+61.0,611310,Sector 61 – Educational Services,Subsector 611 – Educational Services,"Colleges, Universities and Professional Schools",30,
+61.0,611410,Sector 61 – Educational Services,Subsector 611 – Educational Services,Business and Secretarial Schools,8,
+61.0,611420,Sector 61 – Educational Services,Subsector 611 – Educational Services,Computer Training,12,
+61.0,611430,Sector 61 – Educational Services,Subsector 611 – Educational Services,Professional and Management Development Training,12,
+61.0,611511,Sector 61 – Educational Services,Subsector 611 – Educational Services,Cosmetology and Barber Schools,8,
+61.0,611512,Sector 61 – Educational Services,Subsector 611 – Educational Services,Flight Training,30,
+61.0,611513,Sector 61 – Educational Services,Subsector 611 – Educational Services,Apprenticeship Training,8,
+61.0,611519,Sector 61 – Educational Services,Subsector 611 – Educational Services,Other Technical and Trade Schools,16.5,
+61.0,611519_Except,Sector 61 – Educational Services,Subsector 611 – Educational Services,Job Corps Centers16,41.5,
+61.0,611610,Sector 61 – Educational Services,Subsector 611 – Educational Services,Fine Arts Schools,8,
+61.0,611620,Sector 61 – Educational Services,Subsector 611 – Educational Services,Sports and Recreation Instruction,8,
+61.0,611630,Sector 61 – Educational Services,Subsector 611 – Educational Services,Language Schools,12,
+61.0,611691,Sector 61 – Educational Services,Subsector 611 – Educational Services,Exam Preparation and Tutoring,8,
+61.0,611692,Sector 61 – Educational Services,Subsector 611 – Educational Services,Automobile Driving Schools,8,
+61.0,611699,Sector 61 – Educational Services,Subsector 611 – Educational Services,All Other Miscellaneous Schools and Instruction,12,
+61.0,611710,Sector 61 – Educational Services,Subsector 611 – Educational Services,Educational Support Services,16.5,
+62.0,621111,Sector 62 – Health Care and Social Assistance,Subsector 621 – Ambulatory Health Care Services,Offices of Physicians (except Mental Health Specialists),12,
+62.0,621112,Sector 62 – Health Care and Social Assistance,Subsector 621 – Ambulatory Health Care Services,"Offices of Physicians, Mental Health Specialists",12,
+62.0,621210,Sector 62 – Health Care and Social Assistance,Subsector 621 – Ambulatory Health Care Services,Offices of Dentists,8,
+62.0,621310,Sector 62 – Health Care and Social Assistance,Subsector 621 – Ambulatory Health Care Services,Offices of Chiropractors,8,
+62.0,621320,Sector 62 – Health Care and Social Assistance,Subsector 621 – Ambulatory Health Care Services,Offices of Optometrists,8,
+62.0,621330,Sector 62 – Health Care and Social Assistance,Subsector 621 – Ambulatory Health Care Services,Offices of Mental Health Practitioners (except Physicians),8,
+62.0,621340,Sector 62 – Health Care and Social Assistance,Subsector 621 – Ambulatory Health Care Services,"Offices of Physical, Occupational and Speech Therapists and Audiologists",8,
+62.0,621391,Sector 62 – Health Care and Social Assistance,Subsector 621 – Ambulatory Health Care Services,Offices of Podiatrists,8,
+62.0,621399,Sector 62 – Health Care and Social Assistance,Subsector 621 – Ambulatory Health Care Services,Offices of All Other Miscellaneous Health Practitioners,8,
+62.0,621410,Sector 62 – Health Care and Social Assistance,Subsector 621 – Ambulatory Health Care Services,Family Planning Centers,12,
+62.0,621420,Sector 62 – Health Care and Social Assistance,Subsector 621 – Ambulatory Health Care Services,Outpatient Mental Health and Substance Abuse Centers,16.5,
+62.0,621491,Sector 62 – Health Care and Social Assistance,Subsector 621 – Ambulatory Health Care Services,HMO Medical Centers,35,
+62.0,621492,Sector 62 – Health Care and Social Assistance,Subsector 621 – Ambulatory Health Care Services,Kidney Dialysis Centers,41.5,
+62.0,621493,Sector 62 – Health Care and Social Assistance,Subsector 621 – Ambulatory Health Care Services,Freestanding Ambulatory Surgical and Emergency Centers,16.5,
+62.0,621498,Sector 62 – Health Care and Social Assistance,Subsector 621 – Ambulatory Health Care Services,All Other Outpatient Care Centers,22,
+62.0,621511,Sector 62 – Health Care and Social Assistance,Subsector 621 – Ambulatory Health Care Services,Medical Laboratories,35,
+62.0,621512,Sector 62 – Health Care and Social Assistance,Subsector 621 – Ambulatory Health Care Services,Diagnostic Imaging Centers,16.5,
+62.0,621610,Sector 62 – Health Care and Social Assistance,Subsector 621 – Ambulatory Health Care Services,Home Health Care Services,16.5,
+62.0,621910,Sector 62 – Health Care and Social Assistance,Subsector 621 – Ambulatory Health Care Services,Ambulance Services,16.5,
+62.0,621991,Sector 62 – Health Care and Social Assistance,Subsector 621 – Ambulatory Health Care Services,Blood and Organ Banks,35,
+62.0,621999,Sector 62 – Health Care and Social Assistance,Subsector 621 – Ambulatory Health Care Services,All Other Miscellaneous Ambulatory Health Care Services,16.5,
+62.0,622110,Sector 62 – Health Care and Social Assistance,Subsector 622 – Hospitals,General Medical and Surgical Hospitals,41.5,
+62.0,622210,Sector 62 – Health Care and Social Assistance,Subsector 622 – Hospitals,Psychiatric and Substance Abuse Hospitals,41.5,
+62.0,622310,Sector 62 – Health Care and Social Assistance,Subsector 622 – Hospitals,Specialty (except Psychiatric and Substance Abuse) Hospitals,41.5,
+62.0,623110,Sector 62 – Health Care and Social Assistance,Subsector 623 – Nursing and Residential Care Facilities,Nursing Care Facilities (Skilled Nursing Facilities),30,
+62.0,623210,Sector 62 – Health Care and Social Assistance,Subsector 623 – Nursing and Residential Care Facilities,Residential Intellectual and Developmental Disability Facilities,16.5,
+62.0,623220,Sector 62 – Health Care and Social Assistance,Subsector 623 – Nursing and Residential Care Facilities,Residential Mental Health and Substance Abuse Facilities,16.5,
+62.0,623311,Sector 62 – Health Care and Social Assistance,Subsector 623 – Nursing and Residential Care Facilities,Continuing Care Retirement Communities,30,
+62.0,623312,Sector 62 – Health Care and Social Assistance,Subsector 623 – Nursing and Residential Care Facilities,Assisted Living Facilities for the Elderly,12,
+62.0,623990,Sector 62 – Health Care and Social Assistance,Subsector 623 – Nursing and Residential Care Facilities,Other Residential Care Facilities,12,
+62.0,624110,Sector 62 – Health Care and Social Assistance,Subsector 624 – Social Assistance,Child and Youth Services,12,
+62.0,624120,Sector 62 – Health Care and Social Assistance,Subsector 624 – Social Assistance,Services for the Elderly and Persons with Disabilities,12,
+62.0,624190,Sector 62 – Health Care and Social Assistance,Subsector 624 – Social Assistance,Other Individual and Family Services,12,
+62.0,624210,Sector 62 – Health Care and Social Assistance,Subsector 624 – Social Assistance,Community Food Services,12,
+62.0,624221,Sector 62 – Health Care and Social Assistance,Subsector 624 – Social Assistance,Temporary Shelters,12,
+62.0,624229,Sector 62 – Health Care and Social Assistance,Subsector 624 – Social Assistance,Other Community Housing Services,16.5,
+62.0,624230,Sector 62 – Health Care and Social Assistance,Subsector 624 – Social Assistance,Emergency and Other Relief Services,35,
+62.0,624310,Sector 62 – Health Care and Social Assistance,Subsector 624 – Social Assistance,Vocational Rehabilitation Services,12,
+62.0,624410,Sector 62 – Health Care and Social Assistance,Subsector 624 – Social Assistance,Child Day Care Services,8,
+71.0,711110,"Sector 71 – Arts, Entertainment and Recreation","Subsector 711 – Performing Arts, Spectator Sports and Related Industries",Theater Companies and Dinner Theaters,22,
+71.0,711120,"Sector 71 – Arts, Entertainment and Recreation","Subsector 711 – Performing Arts, Spectator Sports and Related Industries",Dance Companies,12,
+71.0,711130,"Sector 71 – Arts, Entertainment and Recreation","Subsector 711 – Performing Arts, Spectator Sports and Related Industries",Musical Groups and Artists,12,
+71.0,711190,"Sector 71 – Arts, Entertainment and Recreation","Subsector 711 – Performing Arts, Spectator Sports and Related Industries",Other Performing Arts Companies,30,
+71.0,711211,"Sector 71 – Arts, Entertainment and Recreation","Subsector 711 – Performing Arts, Spectator Sports and Related Industries",Sports Teams and Clubs,41.5,
+71.0,711212,"Sector 71 – Arts, Entertainment and Recreation","Subsector 711 – Performing Arts, Spectator Sports and Related Industries",Race Tracks,41.5,
+71.0,711219,"Sector 71 – Arts, Entertainment and Recreation","Subsector 711 – Performing Arts, Spectator Sports and Related Industries",Other Spectator Sports,12,
+71.0,711310,"Sector 71 – Arts, Entertainment and Recreation","Subsector 711 – Performing Arts, Spectator Sports and Related Industries","Promoters of Performing Arts, Sports and Similar Events with Facilities",35,
+71.0,711320,"Sector 71 – Arts, Entertainment and Recreation","Subsector 711 – Performing Arts, Spectator Sports and Related Industries","Promoters of Performing Arts, Sports and Similar Events without Facilities",16.5,
+71.0,711410,"Sector 71 – Arts, Entertainment and Recreation","Subsector 711 – Performing Arts, Spectator Sports and Related Industries","Agents and Managers for Artists, Athletes, Entertainers and Other Public Figures",12,
+71.0,711510,"Sector 71 – Arts, Entertainment and Recreation","Subsector 711 – Performing Arts, Spectator Sports and Related Industries","Independent Artists, Writers, and Performers",8,
+71.0,712110,"Sector 71 – Arts, Entertainment and Recreation","Subsector 712 – Museums, Historical Sites and Similar Institutions",Museums,30,
+71.0,712120,"Sector 71 – Arts, Entertainment and Recreation","Subsector 712 – Museums, Historical Sites and Similar Institutions",Historical Sites,8,
+71.0,712130,"Sector 71 – Arts, Entertainment and Recreation","Subsector 712 – Museums, Historical Sites and Similar Institutions",Zoos and Botanical Gardens,30,
+71.0,712190,"Sector 71 – Arts, Entertainment and Recreation","Subsector 712 – Museums, Historical Sites and Similar Institutions",Nature Parks and Other Similar Institutions  ,8,
+71.0,713110,"Sector 71 – Arts, Entertainment and Recreation","Subsector 713 – Amusement, Gambling and Recreation Industries",Amusement and Theme Parks,41.5,
+71.0,713120,"Sector 71 – Arts, Entertainment and Recreation","Subsector 713 – Amusement, Gambling and Recreation Industries",Amusement Arcades,8,
+71.0,713210,"Sector 71 – Arts, Entertainment and Recreation","Subsector 713 – Amusement, Gambling and Recreation Industries",Casinos (except Casino Hotels),30,
+71.0,713290,"Sector 71 – Arts, Entertainment and Recreation","Subsector 713 – Amusement, Gambling and Recreation Industries",Other Gambling Industries,35,
+71.0,713910,"Sector 71 – Arts, Entertainment and Recreation","Subsector 713 – Amusement, Gambling and Recreation Industries",Golf Courses and Country Clubs,16.5,
+71.0,713920,"Sector 71 – Arts, Entertainment and Recreation","Subsector 713 – Amusement, Gambling and Recreation Industries",Skiing Facilities,30,
+71.0,713930,"Sector 71 – Arts, Entertainment and Recreation","Subsector 713 – Amusement, Gambling and Recreation Industries",Marinas,8,
+71.0,713940,"Sector 71 – Arts, Entertainment and Recreation","Subsector 713 – Amusement, Gambling and Recreation Industries",Fitness and Recreational Sports Centers,8,
+71.0,713950,"Sector 71 – Arts, Entertainment and Recreation","Subsector 713 – Amusement, Gambling and Recreation Industries",Bowling Centers,8,
+71.0,713990,"Sector 71 – Arts, Entertainment and Recreation","Subsector 713 – Amusement, Gambling and Recreation Industries",All Other Amusement and Recreation Industries,8,
+72.0,721110,Sector 72 – Accommodation and Food Services,Subsector 721 – Accommodation,Hotels (except Casino Hotels) and Motels,35,
+72.0,721120,Sector 72 – Accommodation and Food Services,Subsector 721 – Accommodation,Casino Hotels,35,
+72.0,721191,Sector 72 – Accommodation and Food Services,Subsector 721 – Accommodation,Bed‑and‑Breakfast Inns,8,
+72.0,721199,Sector 72 – Accommodation and Food Services,Subsector 721 – Accommodation,All Other Traveler Accommodation,8,
+72.0,721211,Sector 72 – Accommodation and Food Services,Subsector 721 – Accommodation,RV (Recreational Vehicle) Parks and Campgrounds  ,8,
+72.0,721214,Sector 72 – Accommodation and Food Services,Subsector 721 – Accommodation,Recreational and Vacation Camps (except Campgrounds),8,
+72.0,721310,Sector 72 – Accommodation and Food Services,Subsector 721 – Accommodation,"Rooming and Boarding Houses, Dormitories, and Workers’ Camps",8,
+72.0,722310,Sector 72 – Accommodation and Food Services,Subsector 722 – Food Services and Drinking Places,Food Service Contractors,41.5,
+72.0,722320,Sector 72 – Accommodation and Food Services,Subsector 722 – Food Services and Drinking Places,Caterers,8,
+72.0,722330,Sector 72 – Accommodation and Food Services,Subsector 722 – Food Services and Drinking Places,Mobile Food Services,8,
+72.0,722410,Sector 72 – Accommodation and Food Services,Subsector 722 – Food Services and Drinking Places,Drinking Places (Alcoholic Beverages),8,
+72.0,722511,Sector 72 – Accommodation and Food Services,Subsector 722 – Food Services and Drinking Places,Full-Service Restaurants,8,
+72.0,722513,Sector 72 – Accommodation and Food Services,Subsector 722 – Food Services and Drinking Places,Limited-Service Restaurants,12,
+72.0,722514,Sector 72 – Accommodation and Food Services,Subsector 722 – Food Services and Drinking Places,"Cafeterias, Grill Buffets, and Buffets",30,
+72.0,722515,Sector 72 – Accommodation and Food Services,Subsector 722 – Food Services and Drinking Places,Snack and Nonalcoholic Beverage Bars,8,
+81.0,811111,Sector 81 – Other Services,Subsector 811 – Repair and Maintenance,General Automotive Repair,8,
+81.0,811112,Sector 81 – Other Services,Subsector 811 – Repair and Maintenance,Automotive Exhaust System Repair,8,
+81.0,811113,Sector 81 – Other Services,Subsector 811 – Repair and Maintenance,Automotive Transmission Repair,8,
+81.0,811118,Sector 81 – Other Services,Subsector 811 – Repair and Maintenance,Other Automotive Mechanical and Electrical Repair and Maintenance,8,
+81.0,811121,Sector 81 – Other Services,Subsector 811 – Repair and Maintenance,"Automotive Body, Paint and Interior Repair and Maintenance",8,
+81.0,811122,Sector 81 – Other Services,Subsector 811 – Repair and Maintenance,Automotive Glass Replacement Shops,12,
+81.0,811191,Sector 81 – Other Services,Subsector 811 – Repair and Maintenance,Automotive Oil Change and Lubrication Shops  ,8,
+81.0,811192,Sector 81 – Other Services,Subsector 811 – Repair and Maintenance,Car Washes,8,
+81.0,811198,Sector 81 – Other Services,Subsector 811 – Repair and Maintenance,All Other Automotive Repair and Maintenance,8,
+81.0,811211,Sector 81 – Other Services,Subsector 811 – Repair and Maintenance,Consumer Electronics Repair and Maintenance,8,
+81.0,811212,Sector 81 – Other Services,Subsector 811 – Repair and Maintenance,Computer and Office Machine Repair and Maintenance,30,
+81.0,811213,Sector 81 – Other Services,Subsector 811 – Repair and Maintenance,Communication Equipment Repair and Maintenance,12,
+81.0,811219,Sector 81 – Other Services,Subsector 811 – Repair and Maintenance,Other Electronic and Precision Equipment Repair and Maintenance,22,
+81.0,811310,Sector 81 – Other Services,Subsector 811 – Repair and Maintenance,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,8,
+81.0,811411,Sector 81 – Other Services,Subsector 811 – Repair and Maintenance,Home and Garden Equipment Repair and Maintenance,8,
+81.0,811412,Sector 81 – Other Services,Subsector 811 – Repair and Maintenance,Appliance Repair and Maintenance,16.5,
+81.0,811420,Sector 81 – Other Services,Subsector 811 – Repair and Maintenance,Reupholstery and Furniture Repair,8,
+81.0,811430,Sector 81 – Other Services,Subsector 811 – Repair and Maintenance,Footwear and Leather Goods Repair,8,
+81.0,811490,Sector 81 – Other Services,Subsector 811 – Repair and Maintenance,Other Personal and Household Goods Repair and Maintenance,8,
+81.0,812111,Sector 81 – Other Services,Subsector 812 – Personal and Laundry Services,Barber Shops,8,
+81.0,812112,Sector 81 – Other Services,Subsector 812 – Personal and Laundry Services,Beauty Salons,8,
+81.0,812113,Sector 81 – Other Services,Subsector 812 – Personal and Laundry Services,Nail Salons,8,
+81.0,812191,Sector 81 – Other Services,Subsector 812 – Personal and Laundry Services,Diet and Weight Reducing Centers,22,
+81.0,812199,Sector 81 – Other Services,Subsector 812 – Personal and Laundry Services,Other Personal Care Services,8,
+81.0,812210,Sector 81 – Other Services,Subsector 812 – Personal and Laundry Services,Funeral Homes and Funeral Services,8,
+81.0,812220,Sector 81 – Other Services,Subsector 812 – Personal and Laundry Services,Cemeteries and Crematories,22,
+81.0,812310,Sector 81 – Other Services,Subsector 812 – Personal and Laundry Services,Coin‑Operated Laundries and Drycleaners,8,
+81.0,812320,Sector 81 – Other Services,Subsector 812 – Personal and Laundry Services,Drycleaning and Laundry Services (except Coin‑Operated),6,
+81.0,812331,Sector 81 – Other Services,Subsector 812 – Personal and Laundry Services,Linen Supply,35,
+81.0,812332,Sector 81 – Other Services,Subsector 812 – Personal and Laundry Services,Industrial Launderers,41.5,
+81.0,812910,Sector 81 – Other Services,Subsector 812 – Personal and Laundry Services,Pet Care (except Veterinary) Services,8,
+81.0,812921,Sector 81 – Other Services,Subsector 812 – Personal and Laundry Services,Photofinishing Laboratories (except One‑Hour),22,
+81.0,812922,Sector 81 – Other Services,Subsector 812 – Personal and Laundry Services,One‑Hour Photofinishing,16.5,
+81.0,812930,Sector 81 – Other Services,Subsector 812 – Personal and Laundry Services,Parking Lots and Garages,41.5,
+81.0,812990,Sector 81 – Other Services,Subsector 812 – Personal and Laundry Services,All Other Personal Services,8,
+81.0,813110,Sector 81 – Other Services,"Subsector 813 – Religious, Grantmaking, Civic, Professional and Similar Organizations",Religious Organizations,8,
+81.0,813211,Sector 81 – Other Services,"Subsector 813 – Religious, Grantmaking, Civic, Professional and Similar Organizations",Grantmaking Foundations,35,
+81.0,813212,Sector 81 – Other Services,"Subsector 813 – Religious, Grantmaking, Civic, Professional and Similar Organizations",Voluntary Health Organizations,30,
+81.0,813219,Sector 81 – Other Services,"Subsector 813 – Religious, Grantmaking, Civic, Professional and Similar Organizations",Other Grantmaking and Giving Services,41.5,
+81.0,813311,Sector 81 – Other Services,"Subsector 813 – Religious, Grantmaking, Civic, Professional and Similar Organizations",Human Rights Organizations,30,
+81.0,813312,Sector 81 – Other Services,"Subsector 813 – Religious, Grantmaking, Civic, Professional and Similar Organizations","Environment, Conservation and Wildlife Organizations",16.5,
+81.0,813319,Sector 81 – Other Services,"Subsector 813 – Religious, Grantmaking, Civic, Professional and Similar Organizations",Other Social Advocacy Organizations,8,
+81.0,813410,Sector 81 – Other Services,"Subsector 813 – Religious, Grantmaking, Civic, Professional and Similar Organizations",Civic and Social Organizations,8,
+81.0,813910,Sector 81 – Other Services,"Subsector 813 – Religious, Grantmaking, Civic, Professional and Similar Organizations",Business Associations,8,
+81.0,813920,Sector 81 – Other Services,"Subsector 813 – Religious, Grantmaking, Civic, Professional and Similar Organizations",Professional Organizations,16.5,
+81.0,813930,Sector 81 – Other Services,"Subsector 813 – Religious, Grantmaking, Civic, Professional and Similar Organizations",Labor Unions and Similar Labor Organizations ,8,
+81.0,813940,Sector 81 – Other Services,"Subsector 813 – Religious, Grantmaking, Civic, Professional and Similar Organizations",Political Organizations,8,
+81.0,813990,Sector 81 – Other Services,"Subsector 813 – Religious, Grantmaking, Civic, Professional and Similar Organizations","Other Similar Organizations (except Business, Professional, Labor, and Political Organizations) ",8,
