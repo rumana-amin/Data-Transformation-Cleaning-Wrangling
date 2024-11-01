@@ -9,7 +9,7 @@ Many of the projects here are inspired by tasks sourced from Upwork.
 
 ## Built with
 - Python
-	- pandas, numpy, regex
+	- pandas, numpy, regex, custom function
 - Excel
 	- power query, custom functions
 
