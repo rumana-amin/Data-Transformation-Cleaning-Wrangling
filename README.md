@@ -2,8 +2,10 @@
 ### “During the course of doing data analysis and modeling, a significant amount of time is spent on data preparation: loading, cleaning, transforming, and rearranging. Such tasks are often reported to take up 80% or more of an analyst's time. Sometimes the way that data is stored in files or databases is not in the right format for a particular task.” 
 *Source: Book: Python for Data Analysis, Author: Wes McKinney*
 
-# Data Transformation
+# Data Transformation Projects
 A significant amount of time during data analysis and modeling is dedicated to data preparation, including loading, cleaning, transforming, and rearranging. These tasks are challaneging and time consuming for an analyst's. Data transformation involves manipulating, processing, cleaning, converting, and structuring data into a usable format for analysis. This process supports decision-making and drives organizational growth.
+
+Many of the projects here are inspired by tasks sourced from Upwork.
 
 ## Built with
 - Python
