@@ -1,4 +1,4 @@
-# Transpose to Reshape Data from Rows to Columns
+# Transpose and Reshape Data from Rows to Columns
 ## Project Overview
 This project began with a job posting on Upwork, involving data reshaping and retrieving telephone codes for various countries. The task required reformatting data from an Excel file with a unique structure: two columns, where the first contains repeated headers and the second holds corresponding values. Each record spans seven rows, and the goal was to transform these row-based records into a more readable table format, with each header as a column. Additionally, an HTML table containing country codes was imported and merged with the structured data. 
 
