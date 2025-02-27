@@ -6,7 +6,7 @@ This project was initiated based on a problem found on Upwork. The client provid
 ## Problem
 The client provided a PNG image of an Excel file with data in a single column, lacking any delimiters to separate the required information. This presented a significant data extraction and structuring challenge.
 
-![Sample Data Image](https://github.com/rumana-amin/Data-Transformation-Cleaning-Wrangling/blob/main/Excel%20Text%20to%20Columns%20without%20Delimiter/Sample%20Data.png)
+![Sample Data Image](https://github.com/rumana-amin/Data-Transformation-Cleaning-Wrangling/blob/main/Excel%20Text%20to%20Columns%20without%20Delimiter/sample_data.png)
 ## Data Transformation Process
 To address this problem, the following steps were undertaken:
 1. **Data Format Analysis**: Examined the structure and patterns of the provided data.
